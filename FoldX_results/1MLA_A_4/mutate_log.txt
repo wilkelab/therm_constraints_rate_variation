@@ -1,0 +1,1757 @@
+   ********************************************
+   ***                                      ***
+   ***           FoldX 3.0 Beta 6 (c)       ***
+   ***                                      ***
+   ***     code by the FoldX consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***        and Francois Stricher         ***
+   *** and any other of the 5! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Start time of FoldX: Tue May 13 09:56:24 2014
+
+RepairPDB_1MLA_A.pdb
+1 models read.
+
+BackHbond       =               -221.91
+SideHbond       =               -77.04
+Energy_VdW      =               -357.38
+Electro         =               -5.26
+Energy_SolvP    =               468.78
+Energy_SolvH    =               -478.07
+Energy_vdwclash =               6.19
+energy_torsion  =               10.07
+backbone_vdwclash=              226.04
+Entropy_sidec   =               167.56
+Entropy_mainc   =               444.75
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -52.21
+
+Residue ALA305 identified.
+running mutagenesis ALAA305 in ALA
+0 MOVING NEIGHBOUR RESIDUE = 270 TYR
+Residue Number= 305 ALA	
+BackHbond       =               -221.91
+SideHbond       =               -77.04
+Energy_VdW      =               -357.39
+Electro         =               -5.27
+Energy_SolvP    =               468.76
+Energy_SolvH    =               -478.11
+Energy_vdwclash =               6.19
+energy_torsion  =               10.07
+backbone_vdwclash=              226.03
+Entropy_sidec   =               167.56
+Entropy_mainc   =               444.75
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -52.29
+
+running mutagenesis ALAA305 in GLY
+1 MOVING NEIGHBOUR RESIDUE = 270 TYR
+Residue Number= 305 GLY	
+BackHbond       =               -221.91
+SideHbond       =               -77.04
+Energy_VdW      =               -357.11
+Electro         =               -5.27
+Energy_SolvP    =               468.45
+Energy_SolvH    =               -477.71
+Energy_vdwclash =               6.19
+energy_torsion  =               10.07
+backbone_vdwclash=              225.77
+Entropy_sidec   =               167.56
+Entropy_mainc   =               445.24
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -51.42
+
+running mutagenesis ALAA305 in ALA
+2 MOVING NEIGHBOUR RESIDUE = 270 TYR
+Residue Number= 305 ALA	
+BackHbond       =               -221.91
+SideHbond       =               -77.04
+Energy_VdW      =               -357.39
+Electro         =               -5.27
+Energy_SolvP    =               468.76
+Energy_SolvH    =               -478.11
+Energy_vdwclash =               6.19
+energy_torsion  =               10.07
+backbone_vdwclash=              226.03
+Entropy_sidec   =               167.56
+Entropy_mainc   =               444.75
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -52.29
+
+running mutagenesis ALAA305 in LEU
+3 MOVING NEIGHBOUR RESIDUE = 270 TYR
+Residue Number= 305 LEU	
+BackHbond       =               -221.92
+SideHbond       =               -77.04
+Energy_VdW      =               -357.82
+Electro         =               -5.27
+Energy_SolvP    =               469.32
+Energy_SolvH    =               -478.66
+Energy_vdwclash =               6.19
+energy_torsion  =               10.08
+backbone_vdwclash=              226.60
+Entropy_sidec   =               167.77
+Entropy_mainc   =               444.89
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -52.37
+
+running mutagenesis ALAA305 in VAL
+4 MOVING NEIGHBOUR RESIDUE = 270 TYR
+Residue Number= 305 VAL	
+BackHbond       =               -221.92
+SideHbond       =               -77.04
+Energy_VdW      =               -357.63
+Electro         =               -5.27
+Energy_SolvP    =               469.23
+Energy_SolvH    =               -478.33
+Energy_vdwclash =               6.25
+energy_torsion  =               10.85
+backbone_vdwclash=              226.41
+Entropy_sidec   =               167.68
+Entropy_mainc   =               445.06
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -51.03
+
+running mutagenesis ALAA305 in ILE
+5 MOVING NEIGHBOUR RESIDUE = 270 TYR
+Residue Number= 305 ILE	
+BackHbond       =               -221.93
+SideHbond       =               -77.04
+Energy_VdW      =               -357.74
+Electro         =               -5.27
+Energy_SolvP    =               469.23
+Energy_SolvH    =               -478.52
+Energy_vdwclash =               6.33
+energy_torsion  =               10.71
+backbone_vdwclash=              226.48
+Entropy_sidec   =               167.73
+Entropy_mainc   =               445.15
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -51.25
+
+running mutagenesis ALAA305 in PRO
+6 MOVING NEIGHBOUR RESIDUE = 270 TYR
+Residue Number= 305 PRO	
+BackHbond       =               -220.68
+SideHbond       =               -77.04
+Energy_VdW      =               -357.82
+Electro         =               -5.27
+Energy_SolvP    =               468.97
+Energy_SolvH    =               -478.86
+Energy_vdwclash =               9.93
+energy_torsion  =               10.11
+backbone_vdwclash=              224.62
+Entropy_sidec   =               167.81
+Entropy_mainc   =               443.06
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -49.69
+
+running mutagenesis ALAA305 in ARG
+7 MOVING NEIGHBOUR RESIDUE = 270 TYR
+Residue Number= 305 ARG	
+BackHbond       =               -222.73
+SideHbond       =               -77.90
+Energy_VdW      =               -358.05
+Electro         =               -5.52
+Energy_SolvP    =               469.72
+Energy_SolvH    =               -478.71
+Energy_vdwclash =               6.19
+energy_torsion  =               10.17
+backbone_vdwclash=              226.60
+Entropy_sidec   =               168.90
+Entropy_mainc   =               444.99
+water bonds     =               0.00
+helix dipole    =               -11.39
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -52.72
+
+running mutagenesis ALAA305 in THR
+8 MOVING NEIGHBOUR RESIDUE = 270 TYR
+Residue Number= 305 THR	
+BackHbond       =               -222.40
+SideHbond       =               -77.57
+Energy_VdW      =               -357.45
+Electro         =               -5.27
+Energy_SolvP    =               469.00
+Energy_SolvH    =               -478.05
+Energy_vdwclash =               6.19
+energy_torsion  =               10.25
+backbone_vdwclash=              226.15
+Entropy_sidec   =               168.08
+Entropy_mainc   =               445.05
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -52.06
+
+running mutagenesis ALAA305 in SER
+9 MOVING NEIGHBOUR RESIDUE = 270 TYR
+Residue Number= 305 SER	
+BackHbond       =               -222.51
+SideHbond       =               -77.68
+Energy_VdW      =               -357.54
+Electro         =               -5.27
+Energy_SolvP    =               469.27
+Energy_SolvH    =               -478.03
+Energy_vdwclash =               6.20
+energy_torsion  =               10.13
+backbone_vdwclash=              226.27
+Entropy_sidec   =               168.09
+Entropy_mainc   =               444.95
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -52.29
+
+running mutagenesis ALAA305 in CYS
+10 MOVING NEIGHBOUR RESIDUE = 270 TYR
+Residue Number= 305 CYS	
+BackHbond       =               -221.91
+SideHbond       =               -77.04
+Energy_VdW      =               -357.50
+Electro         =               -5.27
+Energy_SolvP    =               468.92
+Energy_SolvH    =               -478.18
+Energy_vdwclash =               6.19
+energy_torsion  =               10.07
+backbone_vdwclash=              226.22
+Entropy_sidec   =               167.73
+Entropy_mainc   =               445.31
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -51.58
+
+running mutagenesis ALAA305 in MET
+11 MOVING NEIGHBOUR RESIDUE = 270 TYR
+Residue Number= 305 MET	
+BackHbond       =               -221.96
+SideHbond       =               -77.04
+Energy_VdW      =               -358.04
+Electro         =               -5.27
+Energy_SolvP    =               469.45
+Energy_SolvH    =               -479.03
+Energy_vdwclash =               6.19
+energy_torsion  =               10.11
+backbone_vdwclash=              226.56
+Entropy_sidec   =               167.87
+Entropy_mainc   =               445.05
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -52.57
+
+running mutagenesis ALAA305 in LYS
+12 MOVING NEIGHBOUR RESIDUE = 270 TYR
+Residue Number= 305 LYS	
+BackHbond       =               -221.95
+SideHbond       =               -77.04
+Energy_VdW      =               -357.76
+Electro         =               -5.36
+Energy_SolvP    =               469.21
+Energy_SolvH    =               -478.56
+Energy_vdwclash =               6.19
+energy_torsion  =               10.07
+backbone_vdwclash=              226.34
+Entropy_sidec   =               167.81
+Entropy_mainc   =               444.95
+water bonds     =               0.00
+helix dipole    =               -11.55
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -52.38
+
+running mutagenesis ALAA305 in GLU
+13 MOVING NEIGHBOUR RESIDUE = 270 TYR
+Residue Number= 305 GLU	
+BackHbond       =               -221.91
+SideHbond       =               -77.04
+Energy_VdW      =               -357.66
+Electro         =               -5.06
+Energy_SolvP    =               469.09
+Energy_SolvH    =               -478.44
+Energy_vdwclash =               6.20
+energy_torsion  =               10.07
+backbone_vdwclash=              226.37
+Entropy_sidec   =               167.71
+Entropy_mainc   =               444.86
+water bonds     =               0.00
+helix dipole    =               -11.46
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -52.03
+
+running mutagenesis ALAA305 in GLN
+14 MOVING NEIGHBOUR RESIDUE = 270 TYR
+Residue Number= 305 GLN	
+BackHbond       =               -222.36
+SideHbond       =               -77.50
+Energy_VdW      =               -357.52
+Electro         =               -5.27
+Energy_SolvP    =               469.05
+Energy_SolvH    =               -478.19
+Energy_vdwclash =               6.19
+energy_torsion  =               10.08
+backbone_vdwclash=              226.28
+Entropy_sidec   =               168.12
+Entropy_mainc   =               444.93
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -52.37
+
+running mutagenesis ALAA305 in ASP
+15 MOVING NEIGHBOUR RESIDUE = 270 TYR
+Residue Number= 305 ASP	
+BackHbond       =               -221.91
+SideHbond       =               -77.04
+Energy_VdW      =               -357.49
+Electro         =               -5.08
+Energy_SolvP    =               468.94
+Energy_SolvH    =               -478.20
+Energy_vdwclash =               6.19
+energy_torsion  =               10.07
+backbone_vdwclash=              226.19
+Entropy_sidec   =               167.60
+Entropy_mainc   =               444.98
+water bonds     =               0.00
+helix dipole    =               -11.22
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -51.56
+
+running mutagenesis ALAA305 in ASN
+16 MOVING NEIGHBOUR RESIDUE = 270 TYR
+Residue Number= 305 ASN	
+BackHbond       =               -222.51
+SideHbond       =               -77.68
+Energy_VdW      =               -357.55
+Electro         =               -5.27
+Energy_SolvP    =               469.06
+Energy_SolvH    =               -478.22
+Energy_vdwclash =               6.19
+energy_torsion  =               10.07
+backbone_vdwclash=              226.28
+Entropy_sidec   =               168.25
+Entropy_mainc   =               445.16
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -52.36
+
+running mutagenesis ALAA305 in TRP
+17 MOVING NEIGHBOUR RESIDUE = 270 TYR
+Residue Number= 305 TRP	
+BackHbond       =               -221.96
+SideHbond       =               -77.05
+Energy_VdW      =               -358.42
+Electro         =               -5.27
+Energy_SolvP    =               469.71
+Energy_SolvH    =               -479.49
+Energy_vdwclash =               6.21
+energy_torsion  =               10.29
+backbone_vdwclash=              226.44
+Entropy_sidec   =               168.06
+Entropy_mainc   =               445.40
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.48
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -52.42
+
+running mutagenesis ALAA305 in TYR
+18 MOVING NEIGHBOUR RESIDUE = 270 TYR
+Residue Number= 305 TYR	
+BackHbond       =               -221.91
+SideHbond       =               -77.04
+Energy_VdW      =               -357.81
+Electro         =               -5.27
+Energy_SolvP    =               469.15
+Energy_SolvH    =               -478.65
+Energy_vdwclash =               6.20
+energy_torsion  =               10.11
+backbone_vdwclash=              226.44
+Entropy_sidec   =               167.81
+Entropy_mainc   =               445.29
+water bonds     =               0.00
+helix dipole    =               -11.51
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -52.04
+
+running mutagenesis ALAA305 in PHE
+19 MOVING NEIGHBOUR RESIDUE = 270 TYR
+Residue Number= 305 PHE	
+BackHbond       =               -221.91
+SideHbond       =               -77.04
+Energy_VdW      =               -357.86
+Electro         =               -5.27
+Energy_SolvP    =               469.21
+Energy_SolvH    =               -478.71
+Energy_vdwclash =               6.21
+energy_torsion  =               10.08
+backbone_vdwclash=              226.47
+Entropy_sidec   =               167.83
+Entropy_mainc   =               445.29
+water bonds     =               0.00
+helix dipole    =               -11.51
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -52.08
+
+running mutagenesis ALAA305 in HIS
+20 MOVING NEIGHBOUR RESIDUE = 270 TYR
+Residue Number= 305 HIS	
+BackHbond       =               -222.71
+SideHbond       =               -77.89
+Energy_VdW      =               -357.59
+Electro         =               -5.43
+Energy_SolvP    =               469.36
+Energy_SolvH    =               -478.22
+Energy_vdwclash =               6.19
+energy_torsion  =               10.08
+backbone_vdwclash=              226.33
+Entropy_sidec   =               168.44
+Entropy_mainc   =               445.48
+water bonds     =               0.00
+helix dipole    =               -11.60
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.72
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -52.03
+
+Residue ALA306 identified.
+running mutagenesis ALAA306 in ALA
+0 MOVING NEIGHBOUR RESIDUE = 74 TRP
+0 MOVING NEIGHBOUR RESIDUE = 270 TYR
+0 MOVING NEIGHBOUR RESIDUE = 292 SER
+0 MOVING NEIGHBOUR RESIDUE = 296 GLU
+Residue Number= 306 ALA	
+BackHbond       =               -221.95
+SideHbond       =               -77.10
+Energy_VdW      =               -357.45
+Electro         =               -5.27
+Energy_SolvP    =               468.65
+Energy_SolvH    =               -478.33
+Energy_vdwclash =               6.18
+energy_torsion  =               10.07
+backbone_vdwclash=              226.05
+Entropy_sidec   =               167.59
+Entropy_mainc   =               444.76
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -52.74
+
+running mutagenesis ALAA306 in GLY
+1 MOVING NEIGHBOUR RESIDUE = 74 TRP
+1 MOVING NEIGHBOUR RESIDUE = 270 TYR
+1 MOVING NEIGHBOUR RESIDUE = 292 SER
+1 MOVING NEIGHBOUR RESIDUE = 296 GLU
+Residue Number= 306 GLY	
+BackHbond       =               -221.95
+SideHbond       =               -77.10
+Energy_VdW      =               -356.76
+Electro         =               -5.27
+Energy_SolvP    =               467.60
+Energy_SolvH    =               -477.10
+Energy_vdwclash =               6.17
+energy_torsion  =               10.07
+backbone_vdwclash=              225.91
+Entropy_sidec   =               167.57
+Entropy_mainc   =               444.95
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -51.72
+
+running mutagenesis ALAA306 in ALA
+2 MOVING NEIGHBOUR RESIDUE = 74 TRP
+2 MOVING NEIGHBOUR RESIDUE = 270 TYR
+2 MOVING NEIGHBOUR RESIDUE = 292 SER
+2 MOVING NEIGHBOUR RESIDUE = 296 GLU
+Residue Number= 306 ALA	
+BackHbond       =               -221.95
+SideHbond       =               -77.10
+Energy_VdW      =               -357.45
+Electro         =               -5.27
+Energy_SolvP    =               468.65
+Energy_SolvH    =               -478.33
+Energy_vdwclash =               6.18
+energy_torsion  =               10.07
+backbone_vdwclash=              226.05
+Entropy_sidec   =               167.59
+Entropy_mainc   =               444.76
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -52.74
+
+running mutagenesis ALAA306 in LEU
+3 MOVING NEIGHBOUR RESIDUE = 74 TRP
+3 MOVING NEIGHBOUR RESIDUE = 270 TYR
+3 MOVING NEIGHBOUR RESIDUE = 292 SER
+3 MOVING NEIGHBOUR RESIDUE = 296 GLU
+Residue Number= 306 LEU	
+BackHbond       =               -222.00
+SideHbond       =               -77.10
+Energy_VdW      =               -359.03
+Electro         =               -5.25
+Energy_SolvP    =               469.77
+Energy_SolvH    =               -481.07
+Energy_vdwclash =               11.12
+energy_torsion  =               10.63
+backbone_vdwclash=              226.62
+Entropy_sidec   =               168.52
+Entropy_mainc   =               444.76
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -49.55
+
+running mutagenesis ALAA306 in VAL
+4 MOVING NEIGHBOUR RESIDUE = 74 TRP
+4 MOVING NEIGHBOUR RESIDUE = 270 TYR
+4 MOVING NEIGHBOUR RESIDUE = 292 SER
+4 MOVING NEIGHBOUR RESIDUE = 296 GLU
+Residue Number= 306 VAL	
+BackHbond       =               -221.96
+SideHbond       =               -77.07
+Energy_VdW      =               -358.41
+Electro         =               -5.26
+Energy_SolvP    =               469.47
+Energy_SolvH    =               -479.89
+Energy_vdwclash =               10.71
+energy_torsion  =               10.53
+backbone_vdwclash=              226.27
+Entropy_sidec   =               167.98
+Entropy_mainc   =               444.91
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.48
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -48.89
+
+running mutagenesis ALAA306 in ILE
+5 MOVING NEIGHBOUR RESIDUE = 74 TRP
+5 MOVING NEIGHBOUR RESIDUE = 270 TYR
+5 MOVING NEIGHBOUR RESIDUE = 292 SER
+5 MOVING NEIGHBOUR RESIDUE = 296 GLU
+Residue Number= 306 ILE	
+BackHbond       =               -221.96
+SideHbond       =               -77.05
+Energy_VdW      =               -358.79
+Electro         =               -5.25
+Energy_SolvP    =               469.91
+Energy_SolvH    =               -480.50
+Energy_vdwclash =               9.78
+energy_torsion  =               10.77
+backbone_vdwclash=              226.39
+Entropy_sidec   =               168.40
+Entropy_mainc   =               444.99
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -49.59
+
+running mutagenesis ALAA306 in PRO
+6 MOVING NEIGHBOUR RESIDUE = 74 TRP
+6 MOVING NEIGHBOUR RESIDUE = 270 TYR
+6 MOVING NEIGHBOUR RESIDUE = 292 SER
+6 MOVING NEIGHBOUR RESIDUE = 296 GLU
+Residue Number= 306 PRO	
+BackHbond       =               -220.97
+SideHbond       =               -77.10
+Energy_VdW      =               -358.03
+Electro         =               -5.27
+Energy_SolvP    =               468.32
+Energy_SolvH    =               -479.40
+Energy_vdwclash =               11.46
+energy_torsion  =               10.07
+backbone_vdwclash=              224.80
+Entropy_sidec   =               167.83
+Entropy_mainc   =               443.87
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -49.11
+
+running mutagenesis ALAA306 in ARG
+7 MOVING NEIGHBOUR RESIDUE = 74 TRP
+7 MOVING NEIGHBOUR RESIDUE = 270 TYR
+7 MOVING NEIGHBOUR RESIDUE = 292 SER
+7 MOVING NEIGHBOUR RESIDUE = 296 GLU
+Residue Number= 306 ARG	
+BackHbond       =               -222.00
+SideHbond       =               -78.61
+Energy_VdW      =               -358.95
+Electro         =               -5.34
+Energy_SolvP    =               470.65
+Energy_SolvH    =               -479.74
+Energy_vdwclash =               8.45
+energy_torsion  =               12.21
+backbone_vdwclash=              226.58
+Entropy_sidec   =               169.45
+Entropy_mainc   =               444.85
+water bonds     =               0.00
+helix dipole    =               -12.51
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -49.93
+
+running mutagenesis ALAA306 in THR
+8 MOVING NEIGHBOUR RESIDUE = 74 TRP
+8 MOVING NEIGHBOUR RESIDUE = 270 TYR
+8 MOVING NEIGHBOUR RESIDUE = 292 SER
+8 MOVING NEIGHBOUR RESIDUE = 296 GLU
+Residue Number= 306 THR	
+BackHbond       =               -222.31
+SideHbond       =               -77.48
+Energy_VdW      =               -357.98
+Electro         =               -5.25
+Energy_SolvP    =               469.94
+Energy_SolvH    =               -478.66
+Energy_vdwclash =               6.74
+energy_torsion  =               10.83
+backbone_vdwclash=              226.01
+Entropy_sidec   =               168.12
+Entropy_mainc   =               444.91
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -51.03
+
+running mutagenesis ALAA306 in SER
+9 MOVING NEIGHBOUR RESIDUE = 74 TRP
+9 MOVING NEIGHBOUR RESIDUE = 270 TYR
+9 MOVING NEIGHBOUR RESIDUE = 292 SER
+9 MOVING NEIGHBOUR RESIDUE = 296 GLU
+Residue Number= 306 SER	
+BackHbond       =               -222.03
+SideHbond       =               -77.70
+Energy_VdW      =               -357.76
+Electro         =               -5.26
+Energy_SolvP    =               469.52
+Energy_SolvH    =               -477.95
+Energy_vdwclash =               6.61
+energy_torsion  =               10.07
+backbone_vdwclash=              226.16
+Entropy_sidec   =               168.11
+Entropy_mainc   =               444.41
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -51.88
+
+running mutagenesis ALAA306 in CYS
+10 MOVING NEIGHBOUR RESIDUE = 74 TRP
+10 MOVING NEIGHBOUR RESIDUE = 270 TYR
+10 MOVING NEIGHBOUR RESIDUE = 292 SER
+10 MOVING NEIGHBOUR RESIDUE = 296 GLU
+Residue Number= 306 CYS	
+BackHbond       =               -221.95
+SideHbond       =               -77.10
+Energy_VdW      =               -358.01
+Electro         =               -5.25
+Energy_SolvP    =               468.91
+Energy_SolvH    =               -478.95
+Energy_vdwclash =               7.54
+energy_torsion  =               10.07
+backbone_vdwclash=              226.06
+Entropy_sidec   =               168.36
+Entropy_mainc   =               444.68
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -51.60
+
+running mutagenesis ALAA306 in MET
+11 MOVING NEIGHBOUR RESIDUE = 74 TRP
+11 MOVING NEIGHBOUR RESIDUE = 270 TYR
+11 MOVING NEIGHBOUR RESIDUE = 292 SER
+11 MOVING NEIGHBOUR RESIDUE = 296 GLU
+Residue Number= 306 MET	
+BackHbond       =               -222.00
+SideHbond       =               -77.11
+Energy_VdW      =               -358.94
+Electro         =               -5.25
+Energy_SolvP    =               469.68
+Energy_SolvH    =               -480.56
+Energy_vdwclash =               8.04
+energy_torsion  =               10.82
+backbone_vdwclash=              226.40
+Entropy_sidec   =               168.54
+Entropy_mainc   =               445.02
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -51.65
+
+running mutagenesis ALAA306 in LYS
+12 MOVING NEIGHBOUR RESIDUE = 74 TRP
+12 MOVING NEIGHBOUR RESIDUE = 270 TYR
+12 MOVING NEIGHBOUR RESIDUE = 292 SER
+12 MOVING NEIGHBOUR RESIDUE = 296 GLU
+Residue Number= 306 LYS	
+BackHbond       =               -222.02
+SideHbond       =               -78.62
+Energy_VdW      =               -358.99
+Electro         =               -5.29
+Energy_SolvP    =               471.08
+Energy_SolvH    =               -480.36
+Energy_vdwclash =               9.00
+energy_torsion  =               10.14
+backbone_vdwclash=              226.44
+Entropy_sidec   =               169.35
+Entropy_mainc   =               444.74
+water bonds     =               0.00
+helix dipole    =               -11.74
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -51.11
+
+running mutagenesis ALAA306 in GLU
+13 MOVING NEIGHBOUR RESIDUE = 74 TRP
+13 MOVING NEIGHBOUR RESIDUE = 270 TYR
+13 MOVING NEIGHBOUR RESIDUE = 292 SER
+13 MOVING NEIGHBOUR RESIDUE = 296 GLU
+Residue Number= 306 GLU	
+BackHbond       =               -221.99
+SideHbond       =               -78.82
+Energy_VdW      =               -358.51
+Electro         =               -5.26
+Energy_SolvP    =               470.82
+Energy_SolvH    =               -479.47
+Energy_vdwclash =               8.51
+energy_torsion  =               10.30
+backbone_vdwclash=              226.37
+Entropy_sidec   =               168.86
+Entropy_mainc   =               444.69
+water bonds     =               0.00
+helix dipole    =               -10.44
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -49.71
+
+running mutagenesis ALAA306 in GLN
+14 MOVING NEIGHBOUR RESIDUE = 74 TRP
+14 MOVING NEIGHBOUR RESIDUE = 270 TYR
+14 MOVING NEIGHBOUR RESIDUE = 292 SER
+14 MOVING NEIGHBOUR RESIDUE = 296 GLU
+Residue Number= 306 GLN	
+BackHbond       =               -221.99
+SideHbond       =               -78.28
+Energy_VdW      =               -358.59
+Electro         =               -5.25
+Energy_SolvP    =               470.05
+Energy_SolvH    =               -479.59
+Energy_vdwclash =               7.69
+energy_torsion  =               10.34
+backbone_vdwclash=              226.30
+Entropy_sidec   =               168.89
+Entropy_mainc   =               444.75
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -51.89
+
+running mutagenesis ALAA306 in ASP
+15 MOVING NEIGHBOUR RESIDUE = 74 TRP
+15 MOVING NEIGHBOUR RESIDUE = 270 TYR
+15 MOVING NEIGHBOUR RESIDUE = 292 SER
+15 MOVING NEIGHBOUR RESIDUE = 296 GLU
+Residue Number= 306 ASP	
+BackHbond       =               -221.96
+SideHbond       =               -78.52
+Energy_VdW      =               -358.22
+Electro         =               -5.65
+Energy_SolvP    =               471.40
+Energy_SolvH    =               -478.88
+Energy_vdwclash =               9.67
+energy_torsion  =               10.08
+backbone_vdwclash=              226.15
+Entropy_sidec   =               168.06
+Entropy_mainc   =               444.69
+water bonds     =               0.00
+helix dipole    =               -10.59
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -48.32
+
+running mutagenesis ALAA306 in ASN
+16 MOVING NEIGHBOUR RESIDUE = 74 TRP
+16 MOVING NEIGHBOUR RESIDUE = 270 TYR
+16 MOVING NEIGHBOUR RESIDUE = 292 SER
+16 MOVING NEIGHBOUR RESIDUE = 296 GLU
+Residue Number= 306 ASN	
+BackHbond       =               -222.00
+SideHbond       =               -78.13
+Energy_VdW      =               -358.43
+Electro         =               -5.29
+Energy_SolvP    =               470.64
+Energy_SolvH    =               -478.89
+Energy_vdwclash =               9.00
+energy_torsion  =               10.08
+backbone_vdwclash=              226.27
+Entropy_sidec   =               168.27
+Entropy_mainc   =               444.92
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -49.73
+
+running mutagenesis ALAA306 in TRP
+17 MOVING NEIGHBOUR RESIDUE = 74 TRP
+17 MOVING NEIGHBOUR RESIDUE = 270 TYR
+17 MOVING NEIGHBOUR RESIDUE = 292 SER
+17 MOVING NEIGHBOUR RESIDUE = 296 GLU
+Residue Number= 306 TRP	
+BackHbond       =               -222.03
+SideHbond       =               -77.13
+Energy_VdW      =               -359.79
+Electro         =               -5.27
+Energy_SolvP    =               471.19
+Energy_SolvH    =               -481.25
+Energy_vdwclash =               14.07
+energy_torsion  =               11.00
+backbone_vdwclash=              226.89
+Entropy_sidec   =               168.41
+Entropy_mainc   =               445.34
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -45.36
+
+running mutagenesis ALAA306 in TYR
+18 MOVING NEIGHBOUR RESIDUE = 74 TRP
+18 MOVING NEIGHBOUR RESIDUE = 270 TYR
+18 MOVING NEIGHBOUR RESIDUE = 292 SER
+18 MOVING NEIGHBOUR RESIDUE = 296 GLU
+Residue Number= 306 TYR	
+BackHbond       =               -222.59
+SideHbond       =               -77.61
+Energy_VdW      =               -359.65
+Electro         =               -5.25
+Energy_SolvP    =               470.54
+Energy_SolvH    =               -481.21
+Energy_vdwclash =               15.34
+energy_torsion  =               10.10
+backbone_vdwclash=              226.85
+Entropy_sidec   =               168.43
+Entropy_mainc   =               445.41
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -46.39
+
+running mutagenesis ALAA306 in PHE
+19 MOVING NEIGHBOUR RESIDUE = 74 TRP
+19 MOVING NEIGHBOUR RESIDUE = 270 TYR
+19 MOVING NEIGHBOUR RESIDUE = 292 SER
+19 MOVING NEIGHBOUR RESIDUE = 296 GLU
+Residue Number= 306 PHE	
+BackHbond       =               -222.07
+SideHbond       =               -77.11
+Energy_VdW      =               -359.55
+Electro         =               -5.22
+Energy_SolvP    =               470.14
+Energy_SolvH    =               -481.36
+Energy_vdwclash =               14.20
+energy_torsion  =               10.24
+backbone_vdwclash=              226.75
+Entropy_sidec   =               168.33
+Entropy_mainc   =               445.27
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -47.02
+
+running mutagenesis ALAA306 in HIS
+20 MOVING NEIGHBOUR RESIDUE = 74 TRP
+20 MOVING NEIGHBOUR RESIDUE = 270 TYR
+20 MOVING NEIGHBOUR RESIDUE = 292 SER
+20 MOVING NEIGHBOUR RESIDUE = 296 GLU
+Residue Number= 306 H2S	
+BackHbond       =               -222.50
+SideHbond       =               -76.46
+Energy_VdW      =               -359.01
+Electro         =               -5.25
+Energy_SolvP    =               470.40
+Energy_SolvH    =               -480.24
+Energy_vdwclash =               37.31
+energy_torsion  =               10.23
+backbone_vdwclash=              226.02
+Entropy_sidec   =               168.46
+Entropy_mainc   =               445.28
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.63
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -21.52
+
+Residue LEU307 identified.
+running mutagenesis LEUA307 in LEU
+0 MOVING NEIGHBOUR RESIDUE = 80 LYS
+Residue Number= 307 LEU	
+BackHbond       =               -221.91
+SideHbond       =               -77.04
+Energy_VdW      =               -357.49
+Electro         =               -5.26
+Energy_SolvP    =               468.82
+Energy_SolvH    =               -478.31
+Energy_vdwclash =               6.19
+energy_torsion  =               10.08
+backbone_vdwclash=              226.10
+Entropy_sidec   =               167.64
+Entropy_mainc   =               444.75
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -52.44
+
+running mutagenesis LEUA307 in GLY
+1 MOVING NEIGHBOUR RESIDUE = 80 LYS
+Residue Number= 307 GLY	
+BackHbond       =               -221.85
+SideHbond       =               -77.04
+Energy_VdW      =               -355.40
+Electro         =               -5.26
+Energy_SolvP    =               466.84
+Energy_SolvH    =               -474.82
+Energy_vdwclash =               6.18
+energy_torsion  =               10.06
+backbone_vdwclash=              225.51
+Entropy_sidec   =               166.47
+Entropy_mainc   =               444.68
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -50.03
+
+running mutagenesis LEUA307 in ALA
+2 MOVING NEIGHBOUR RESIDUE = 80 LYS
+Residue Number= 307 ALA	
+BackHbond       =               -221.85
+SideHbond       =               -77.04
+Energy_VdW      =               -355.71
+Electro         =               -5.26
+Energy_SolvP    =               467.43
+Energy_SolvH    =               -475.26
+Energy_vdwclash =               6.18
+energy_torsion  =               10.06
+backbone_vdwclash=              225.71
+Entropy_sidec   =               166.49
+Entropy_mainc   =               444.70
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -50.16
+
+running mutagenesis LEUA307 in LEU
+3 MOVING NEIGHBOUR RESIDUE = 80 LYS
+Residue Number= 307 LEU	
+BackHbond       =               -221.91
+SideHbond       =               -77.04
+Energy_VdW      =               -357.49
+Electro         =               -5.26
+Energy_SolvP    =               468.82
+Energy_SolvH    =               -478.31
+Energy_vdwclash =               6.19
+energy_torsion  =               10.08
+backbone_vdwclash=              226.10
+Entropy_sidec   =               167.64
+Entropy_mainc   =               444.75
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -52.44
+
+running mutagenesis LEUA307 in VAL
+4 MOVING NEIGHBOUR RESIDUE = 80 LYS
+Residue Number= 307 VAL	
+BackHbond       =               -221.88
+SideHbond       =               -77.04
+Energy_VdW      =               -356.48
+Electro         =               -5.26
+Energy_SolvP    =               468.38
+Energy_SolvH    =               -476.41
+Energy_vdwclash =               6.18
+energy_torsion  =               10.09
+backbone_vdwclash=              225.85
+Entropy_sidec   =               166.99
+Entropy_mainc   =               444.76
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -50.56
+
+running mutagenesis LEUA307 in ILE
+5 MOVING NEIGHBOUR RESIDUE = 80 LYS
+Residue Number= 307 ILE	
+BackHbond       =               -221.91
+SideHbond       =               -77.04
+Energy_VdW      =               -357.15
+Electro         =               -5.26
+Energy_SolvP    =               468.86
+Energy_SolvH    =               -477.65
+Energy_vdwclash =               6.18
+energy_torsion  =               10.07
+backbone_vdwclash=              225.95
+Entropy_sidec   =               167.45
+Entropy_mainc   =               444.77
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -51.57
+
+running mutagenesis LEUA307 in PRO
+6 MOVING NEIGHBOUR RESIDUE = 80 LYS
+Residue Number= 307 PRO	
+BackHbond       =               -221.85
+SideHbond       =               -77.04
+Energy_VdW      =               -356.50
+Electro         =               -5.26
+Energy_SolvP    =               467.62
+Energy_SolvH    =               -476.68
+Energy_vdwclash =               11.44
+energy_torsion  =               10.06
+backbone_vdwclash=              225.26
+Entropy_sidec   =               166.76
+Entropy_mainc   =               444.37
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -46.98
+
+running mutagenesis LEUA307 in ARG
+7 MOVING NEIGHBOUR RESIDUE = 80 LYS
+Residue Number= 307 ARG	
+BackHbond       =               -222.21
+SideHbond       =               -77.30
+Energy_VdW      =               -357.59
+Electro         =               -5.22
+Energy_SolvP    =               469.83
+Energy_SolvH    =               -477.12
+Energy_vdwclash =               6.22
+energy_torsion  =               10.25
+backbone_vdwclash=              226.11
+Entropy_sidec   =               168.11
+Entropy_mainc   =               444.83
+water bonds     =               0.00
+helix dipole    =               -12.08
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -50.68
+
+running mutagenesis LEUA307 in THR
+8 MOVING NEIGHBOUR RESIDUE = 80 LYS
+Residue Number= 307 THR	
+BackHbond       =               -222.44
+SideHbond       =               -77.61
+Energy_VdW      =               -356.36
+Electro         =               -5.26
+Energy_SolvP    =               468.19
+Energy_SolvH    =               -476.15
+Energy_vdwclash =               6.25
+energy_torsion  =               10.09
+backbone_vdwclash=              225.97
+Entropy_sidec   =               167.07
+Entropy_mainc   =               444.73
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -51.40
+
+running mutagenesis LEUA307 in SER
+9 MOVING NEIGHBOUR RESIDUE = 80 LYS
+Residue Number= 307 SER	
+BackHbond       =               -222.48
+SideHbond       =               -77.67
+Energy_VdW      =               -355.99
+Electro         =               -5.26
+Energy_SolvP    =               467.98
+Energy_SolvH    =               -475.25
+Energy_vdwclash =               6.18
+energy_torsion  =               10.12
+backbone_vdwclash=              225.78
+Entropy_sidec   =               167.04
+Entropy_mainc   =               444.75
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -50.47
+
+running mutagenesis LEUA307 in CYS
+10 MOVING NEIGHBOUR RESIDUE = 80 LYS
+Residue Number= 307 CYS	
+BackHbond       =               -222.04
+SideHbond       =               -77.20
+Energy_VdW      =               -356.45
+Electro         =               -5.26
+Energy_SolvP    =               467.75
+Energy_SolvH    =               -476.13
+Energy_vdwclash =               6.18
+energy_torsion  =               10.06
+backbone_vdwclash=              225.90
+Entropy_sidec   =               167.22
+Entropy_mainc   =               444.71
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -51.06
+
+running mutagenesis LEUA307 in MET
+11 MOVING NEIGHBOUR RESIDUE = 80 LYS
+Residue Number= 307 MET	
+BackHbond       =               -221.91
+SideHbond       =               -77.04
+Energy_VdW      =               -357.94
+Electro         =               -5.26
+Energy_SolvP    =               468.76
+Energy_SolvH    =               -478.69
+Energy_vdwclash =               6.87
+energy_torsion  =               10.07
+backbone_vdwclash=              225.99
+Entropy_sidec   =               167.92
+Entropy_mainc   =               444.78
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -52.35
+
+running mutagenesis LEUA307 in LYS
+12 MOVING NEIGHBOUR RESIDUE = 80 LYS
+Residue Number= 307 LYS	
+BackHbond       =               -222.74
+SideHbond       =               -77.92
+Energy_VdW      =               -356.42
+Electro         =               -5.19
+Energy_SolvP    =               469.03
+Energy_SolvH    =               -476.12
+Energy_vdwclash =               6.20
+energy_torsion  =               10.10
+backbone_vdwclash=              225.74
+Entropy_sidec   =               167.94
+Entropy_mainc   =               444.77
+water bonds     =               0.00
+helix dipole    =               -11.72
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -50.49
+
+running mutagenesis LEUA307 in GLU
+13 MOVING NEIGHBOUR RESIDUE = 80 LYS
+Residue Number= 307 GLU	
+BackHbond       =               -221.85
+SideHbond       =               -77.04
+Energy_VdW      =               -356.12
+Electro         =               -5.30
+Energy_SolvP    =               468.36
+Energy_SolvH    =               -475.73
+Energy_vdwclash =               6.21
+energy_torsion  =               10.08
+backbone_vdwclash=              225.86
+Entropy_sidec   =               166.91
+Entropy_mainc   =               444.79
+water bonds     =               0.00
+helix dipole    =               -10.99
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -49.10
+
+running mutagenesis LEUA307 in GLN
+14 MOVING NEIGHBOUR RESIDUE = 80 LYS
+Residue Number= 307 GLN	
+BackHbond       =               -222.25
+SideHbond       =               -77.41
+Energy_VdW      =               -357.46
+Electro         =               -5.26
+Energy_SolvP    =               469.87
+Energy_SolvH    =               -477.09
+Energy_vdwclash =               6.20
+energy_torsion  =               10.18
+backbone_vdwclash=              225.98
+Entropy_sidec   =               168.00
+Entropy_mainc   =               444.76
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -50.36
+
+running mutagenesis LEUA307 in ASP
+15 MOVING NEIGHBOUR RESIDUE = 80 LYS
+Residue Number= 307 ASP	
+BackHbond       =               -221.86
+SideHbond       =               -77.04
+Energy_VdW      =               -355.97
+Electro         =               -5.37
+Energy_SolvP    =               468.37
+Energy_SolvH    =               -475.45
+Energy_vdwclash =               6.18
+energy_torsion  =               10.07
+backbone_vdwclash=              225.69
+Entropy_sidec   =               166.89
+Entropy_mainc   =               444.76
+water bonds     =               0.00
+helix dipole    =               -10.93
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -48.76
+
+running mutagenesis LEUA307 in ASN
+16 MOVING NEIGHBOUR RESIDUE = 80 LYS
+Residue Number= 307 ASN	
+BackHbond       =               -222.60
+SideHbond       =               -77.68
+Energy_VdW      =               -356.83
+Electro         =               -5.26
+Energy_SolvP    =               469.25
+Energy_SolvH    =               -476.18
+Energy_vdwclash =               6.18
+energy_torsion  =               10.07
+backbone_vdwclash=              225.89
+Entropy_sidec   =               167.27
+Entropy_mainc   =               444.74
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -50.94
+
+running mutagenesis LEUA307 in TRP
+17 MOVING NEIGHBOUR RESIDUE = 80 LYS
+Residue Number= 307 TRP	
+BackHbond       =               -221.85
+SideHbond       =               -77.04
+Energy_VdW      =               -356.28
+Electro         =               -5.23
+Energy_SolvP    =               469.19
+Energy_SolvH    =               -475.74
+Energy_vdwclash =               6.18
+energy_torsion  =               10.12
+backbone_vdwclash=              225.70
+Entropy_sidec   =               166.91
+Entropy_mainc   =               444.81
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -48.83
+
+running mutagenesis LEUA307 in TYR
+18 MOVING NEIGHBOUR RESIDUE = 80 LYS
+Residue Number= 307 TYR	
+BackHbond       =               -220.97
+SideHbond       =               -76.17
+Energy_VdW      =               -356.55
+Electro         =               -6.26
+Energy_SolvP    =               468.64
+Energy_SolvH    =               -476.49
+Energy_vdwclash =               6.22
+energy_torsion  =               10.17
+backbone_vdwclash=              225.62
+Entropy_sidec   =               166.71
+Entropy_mainc   =               444.85
+water bonds     =               0.00
+helix dipole    =               -11.48
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -49.72
+
+running mutagenesis LEUA307 in PHE
+19 MOVING NEIGHBOUR RESIDUE = 80 LYS
+Residue Number= 307 PHE	
+BackHbond       =               -220.98
+SideHbond       =               -76.17
+Energy_VdW      =               -356.68
+Electro         =               -6.25
+Energy_SolvP    =               468.73
+Energy_SolvH    =               -476.70
+Energy_vdwclash =               6.30
+energy_torsion  =               10.25
+backbone_vdwclash=              225.63
+Entropy_sidec   =               166.64
+Entropy_mainc   =               444.86
+water bonds     =               0.00
+helix dipole    =               -11.48
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.47
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -49.87
+
+running mutagenesis LEUA307 in HIS
+20 MOVING NEIGHBOUR RESIDUE = 80 LYS
+Residue Number= 307 H2S	
+BackHbond       =               -221.91
+SideHbond       =               -77.04
+Energy_VdW      =               -357.90
+Electro         =               -5.26
+Energy_SolvP    =               470.43
+Energy_SolvH    =               -477.74
+Energy_vdwclash =               7.58
+energy_torsion  =               10.07
+backbone_vdwclash=              226.08
+Entropy_sidec   =               167.52
+Entropy_mainc   =               444.71
+water bonds     =               0.00
+helix dipole    =               -11.50
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.63
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -49.28
+
+Command PositionScan runtime = 296.00 seconds.
+
+Pdb RepairPDB_1MLA_A.pdb runtime = 296.05 seconds.
+
+total run time = 296.05 seconds.
+
+End time of FoldX: Tue May 13 10:01:21 2014
+
+Total time spend: 297 seconds.
+
+ *** End of FoldX run. Bye. *** 
