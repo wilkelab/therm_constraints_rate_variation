@@ -1,0 +1,1883 @@
+   ********************************************
+   ***                                      ***
+   ***           FoldX 3.0 Beta 6 (c)       ***
+   ***                                      ***
+   ***     code by the FoldX consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***        and Francois Stricher         ***
+   *** and any other of the 5! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Start time of FoldX: Tue May 13 09:56:24 2014
+
+RepairPDB_1JS4_A.pdb
+1 models read.
+
+BackHbond       =               -427.66
+SideHbond       =               -219.40
+Energy_VdW      =               -760.71
+Electro         =               -33.66
+Energy_SolvP    =               1032.93
+Energy_SolvH    =               -976.49
+Energy_vdwclash =               25.90
+energy_torsion  =               15.64
+backbone_vdwclash=              404.91
+Entropy_sidec   =               360.06
+Entropy_mainc   =               927.10
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -70.06
+
+Residue THR603 identified.
+running mutagenesis THRA603 in THR
+0 MOVING NEIGHBOUR RESIDUE = 588 PRO
+0 MOVING NEIGHBOUR RESIDUE = 575 TRP
+Residue Number= 603 THR	
+BackHbond       =               -427.68
+SideHbond       =               -219.40
+Energy_VdW      =               -760.79
+Electro         =               -33.66
+Energy_SolvP    =               1033.03
+Energy_SolvH    =               -976.60
+Energy_vdwclash =               25.89
+energy_torsion  =               15.65
+backbone_vdwclash=              404.96
+Entropy_sidec   =               360.07
+Entropy_mainc   =               927.11
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -70.17
+
+running mutagenesis THRA603 in GLY
+1 MOVING NEIGHBOUR RESIDUE = 588 PRO
+1 MOVING NEIGHBOUR RESIDUE = 575 TRP
+Residue Number= 603 GLY	
+BackHbond       =               -427.64
+SideHbond       =               -219.41
+Energy_VdW      =               -760.06
+Electro         =               -33.66
+Energy_SolvP    =               1032.28
+Energy_SolvH    =               -975.60
+Energy_vdwclash =               25.71
+energy_torsion  =               15.60
+backbone_vdwclash=              404.91
+Entropy_sidec   =               359.86
+Entropy_mainc   =               927.79
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -68.92
+
+running mutagenesis THRA603 in ALA
+2 MOVING NEIGHBOUR RESIDUE = 588 PRO
+2 MOVING NEIGHBOUR RESIDUE = 575 TRP
+Residue Number= 603 ALA	
+BackHbond       =               -427.66
+SideHbond       =               -219.41
+Energy_VdW      =               -760.29
+Electro         =               -33.66
+Energy_SolvP    =               1032.54
+Energy_SolvH    =               -975.92
+Energy_vdwclash =               25.72
+energy_torsion  =               15.60
+backbone_vdwclash=              404.90
+Entropy_sidec   =               359.86
+Entropy_mainc   =               927.55
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -69.46
+
+running mutagenesis THRA603 in LEU
+3 MOVING NEIGHBOUR RESIDUE = 588 PRO
+3 MOVING NEIGHBOUR RESIDUE = 575 TRP
+Residue Number= 603 LEU	
+BackHbond       =               -427.69
+SideHbond       =               -219.36
+Energy_VdW      =               -760.91
+Electro         =               -33.66
+Energy_SolvP    =               1033.19
+Energy_SolvH    =               -976.83
+Energy_vdwclash =               25.66
+energy_torsion  =               15.67
+backbone_vdwclash=              404.97
+Entropy_sidec   =               360.09
+Entropy_mainc   =               927.39
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -70.23
+
+running mutagenesis THRA603 in VAL
+4 MOVING NEIGHBOUR RESIDUE = 588 PRO
+4 MOVING NEIGHBOUR RESIDUE = 575 TRP
+Residue Number= 603 VAL	
+BackHbond       =               -427.67
+SideHbond       =               -219.36
+Energy_VdW      =               -761.01
+Electro         =               -33.66
+Energy_SolvP    =               1033.20
+Energy_SolvH    =               -977.00
+Energy_vdwclash =               25.86
+energy_torsion  =               15.82
+backbone_vdwclash=              404.98
+Entropy_sidec   =               360.12
+Entropy_mainc   =               927.21
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -70.28
+
+running mutagenesis THRA603 in ILE
+5 MOVING NEIGHBOUR RESIDUE = 588 PRO
+5 MOVING NEIGHBOUR RESIDUE = 575 TRP
+Residue Number= 603 ILE	
+BackHbond       =               -427.66
+SideHbond       =               -219.36
+Energy_VdW      =               -761.20
+Electro         =               -33.66
+Energy_SolvP    =               1033.25
+Energy_SolvH    =               -977.37
+Energy_vdwclash =               25.88
+energy_torsion  =               15.81
+backbone_vdwclash=              404.98
+Entropy_sidec   =               360.24
+Entropy_mainc   =               927.29
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -70.56
+
+running mutagenesis THRA603 in PRO
+6 MOVING NEIGHBOUR RESIDUE = 588 PRO
+6 MOVING NEIGHBOUR RESIDUE = 575 TRP
+Residue Number= 603 PRO	
+BackHbond       =               -426.55
+SideHbond       =               -219.41
+Energy_VdW      =               -760.84
+Electro         =               -33.66
+Energy_SolvP    =               1032.83
+Energy_SolvH    =               -976.91
+Energy_vdwclash =               26.90
+energy_torsion  =               15.60
+backbone_vdwclash=              405.01
+Entropy_sidec   =               360.11
+Entropy_mainc   =               928.16
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -67.56
+
+running mutagenesis THRA603 in ARG
+7 MOVING NEIGHBOUR RESIDUE = 588 PRO
+7 MOVING NEIGHBOUR RESIDUE = 575 TRP
+Residue Number= 603 ARG	
+BackHbond       =               -427.65
+SideHbond       =               -220.97
+Energy_VdW      =               -760.89
+Electro         =               -33.55
+Energy_SolvP    =               1033.34
+Energy_SolvH    =               -976.56
+Energy_vdwclash =               25.74
+energy_torsion  =               15.69
+backbone_vdwclash=              404.93
+Entropy_sidec   =               360.90
+Entropy_mainc   =               927.40
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -70.34
+
+running mutagenesis THRA603 in THR
+8 MOVING NEIGHBOUR RESIDUE = 588 PRO
+8 MOVING NEIGHBOUR RESIDUE = 575 TRP
+Residue Number= 603 THR	
+BackHbond       =               -427.93
+SideHbond       =               -219.64
+Energy_VdW      =               -760.86
+Electro         =               -33.66
+Energy_SolvP    =               1033.06
+Energy_SolvH    =               -976.68
+Energy_vdwclash =               25.92
+energy_torsion  =               15.65
+backbone_vdwclash=              404.99
+Entropy_sidec   =               360.36
+Entropy_mainc   =               927.50
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -70.06
+
+running mutagenesis THRA603 in SER
+9 MOVING NEIGHBOUR RESIDUE = 588 PRO
+9 MOVING NEIGHBOUR RESIDUE = 575 TRP
+Residue Number= 603 SER	
+BackHbond       =               -427.66
+SideHbond       =               -219.41
+Energy_VdW      =               -760.30
+Electro         =               -33.66
+Energy_SolvP    =               1032.64
+Energy_SolvH    =               -975.80
+Energy_vdwclash =               25.71
+energy_torsion  =               15.60
+backbone_vdwclash=              404.90
+Entropy_sidec   =               359.92
+Entropy_mainc   =               927.39
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -69.36
+
+running mutagenesis THRA603 in CYS
+10 MOVING NEIGHBOUR RESIDUE = 588 PRO
+10 MOVING NEIGHBOUR RESIDUE = 575 TRP
+Residue Number= 603 CYS	
+BackHbond       =               -427.68
+SideHbond       =               -219.41
+Energy_VdW      =               -760.50
+Electro         =               -33.66
+Energy_SolvP    =               1032.71
+Energy_SolvH    =               -976.14
+Energy_vdwclash =               25.72
+energy_torsion  =               15.60
+backbone_vdwclash=              404.90
+Entropy_sidec   =               360.04
+Entropy_mainc   =               927.54
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -69.57
+
+running mutagenesis THRA603 in MET
+11 MOVING NEIGHBOUR RESIDUE = 588 PRO
+11 MOVING NEIGHBOUR RESIDUE = 575 TRP
+Residue Number= 603 MET	
+BackHbond       =               -427.68
+SideHbond       =               -219.35
+Energy_VdW      =               -761.34
+Electro         =               -33.66
+Energy_SolvP    =               1033.25
+Energy_SolvH    =               -977.52
+Energy_vdwclash =               25.78
+energy_torsion  =               15.63
+backbone_vdwclash=              404.97
+Entropy_sidec   =               360.32
+Entropy_mainc   =               927.75
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -70.61
+
+running mutagenesis THRA603 in LYS
+12 MOVING NEIGHBOUR RESIDUE = 588 PRO
+12 MOVING NEIGHBOUR RESIDUE = 575 TRP
+Residue Number= 603 LYS	
+BackHbond       =               -427.72
+SideHbond       =               -220.67
+Energy_VdW      =               -761.05
+Electro         =               -33.55
+Energy_SolvP    =               1033.13
+Energy_SolvH    =               -977.07
+Energy_vdwclash =               25.75
+energy_torsion  =               15.71
+backbone_vdwclash=              404.97
+Entropy_sidec   =               360.85
+Entropy_mainc   =               927.36
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -71.05
+
+running mutagenesis THRA603 in GLU
+13 MOVING NEIGHBOUR RESIDUE = 588 PRO
+13 MOVING NEIGHBOUR RESIDUE = 575 TRP
+Residue Number= 603 GLU	
+BackHbond       =               -427.68
+SideHbond       =               -219.41
+Energy_VdW      =               -760.61
+Electro         =               -33.60
+Energy_SolvP    =               1032.82
+Energy_SolvH    =               -976.37
+Energy_vdwclash =               25.71
+energy_torsion  =               15.62
+backbone_vdwclash=              404.90
+Entropy_sidec   =               360.04
+Entropy_mainc   =               927.48
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -69.79
+
+running mutagenesis THRA603 in GLN
+14 MOVING NEIGHBOUR RESIDUE = 588 PRO
+14 MOVING NEIGHBOUR RESIDUE = 575 TRP
+Residue Number= 603 GLN	
+BackHbond       =               -427.73
+SideHbond       =               -219.41
+Energy_VdW      =               -760.98
+Electro         =               -33.66
+Energy_SolvP    =               1033.21
+Energy_SolvH    =               -976.82
+Energy_vdwclash =               25.73
+energy_torsion  =               15.64
+backbone_vdwclash=              404.94
+Entropy_sidec   =               360.33
+Entropy_mainc   =               927.36
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -70.13
+
+running mutagenesis THRA603 in ASP
+15 MOVING NEIGHBOUR RESIDUE = 588 PRO
+15 MOVING NEIGHBOUR RESIDUE = 575 TRP
+Residue Number= 603 ASP	
+BackHbond       =               -427.67
+SideHbond       =               -219.41
+Energy_VdW      =               -760.42
+Electro         =               -33.68
+Energy_SolvP    =               1032.81
+Energy_SolvH    =               -976.03
+Energy_vdwclash =               25.72
+energy_torsion  =               15.60
+backbone_vdwclash=              404.90
+Entropy_sidec   =               359.96
+Entropy_mainc   =               927.62
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -69.30
+
+running mutagenesis THRA603 in ASN
+16 MOVING NEIGHBOUR RESIDUE = 588 PRO
+16 MOVING NEIGHBOUR RESIDUE = 575 TRP
+Residue Number= 603 ASN	
+BackHbond       =               -427.68
+SideHbond       =               -219.41
+Energy_VdW      =               -760.48
+Electro         =               -33.66
+Energy_SolvP    =               1032.79
+Energy_SolvH    =               -976.12
+Energy_vdwclash =               25.72
+energy_torsion  =               15.60
+backbone_vdwclash=              404.90
+Entropy_sidec   =               359.95
+Entropy_mainc   =               927.61
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -69.47
+
+running mutagenesis THRA603 in TRP
+17 MOVING NEIGHBOUR RESIDUE = 588 PRO
+17 MOVING NEIGHBOUR RESIDUE = 575 TRP
+Residue Number= 603 TRP	
+BackHbond       =               -427.74
+SideHbond       =               -219.41
+Energy_VdW      =               -761.08
+Electro         =               -33.66
+Energy_SolvP    =               1033.21
+Energy_SolvH    =               -977.02
+Energy_vdwclash =               25.79
+energy_torsion  =               15.60
+backbone_vdwclash=              404.96
+Entropy_sidec   =               360.20
+Entropy_mainc   =               927.48
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -70.41
+
+running mutagenesis THRA603 in TYR
+18 MOVING NEIGHBOUR RESIDUE = 588 PRO
+18 MOVING NEIGHBOUR RESIDUE = 575 TRP
+Residue Number= 603 TYR	
+BackHbond       =               -427.74
+SideHbond       =               -219.41
+Energy_VdW      =               -760.86
+Electro         =               -33.66
+Energy_SolvP    =               1033.16
+Energy_SolvH    =               -976.63
+Energy_vdwclash =               25.74
+energy_torsion  =               15.60
+backbone_vdwclash=              404.95
+Entropy_sidec   =               360.13
+Entropy_mainc   =               927.46
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -70.00
+
+running mutagenesis THRA603 in PHE
+19 MOVING NEIGHBOUR RESIDUE = 588 PRO
+19 MOVING NEIGHBOUR RESIDUE = 575 TRP
+Residue Number= 603 PHE	
+BackHbond       =               -427.68
+SideHbond       =               -219.35
+Energy_VdW      =               -761.10
+Electro         =               -33.65
+Energy_SolvP    =               1033.31
+Energy_SolvH    =               -977.02
+Energy_vdwclash =               25.75
+energy_torsion  =               15.61
+backbone_vdwclash=              404.98
+Entropy_sidec   =               360.19
+Entropy_mainc   =               927.52
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -70.21
+
+running mutagenesis THRA603 in HIS
+20 MOVING NEIGHBOUR RESIDUE = 588 PRO
+20 MOVING NEIGHBOUR RESIDUE = 575 TRP
+Residue Number= 603 HIS	
+BackHbond       =               -428.54
+SideHbond       =               -220.27
+Energy_VdW      =               -760.58
+Electro         =               -33.79
+Energy_SolvP    =               1033.30
+Energy_SolvH    =               -976.12
+Energy_vdwclash =               25.66
+energy_torsion  =               15.60
+backbone_vdwclash=              404.93
+Entropy_sidec   =               360.66
+Entropy_mainc   =               928.05
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             3.23
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -69.56
+
+Residue ALA604 identified.
+running mutagenesis ALAA604 in ALA
+0 MOVING NEIGHBOUR RESIDUE = 591 VAL
+0 MOVING NEIGHBOUR RESIDUE = 598 PRO
+0 MOVING NEIGHBOUR RESIDUE = 593 TYR
+0 MOVING NEIGHBOUR RESIDUE = 501 TRP
+0 MOVING NEIGHBOUR RESIDUE = 604 PRO
+Residue Number= 604 ALA	
+BackHbond       =               -427.66
+SideHbond       =               -219.40
+Energy_VdW      =               -760.71
+Electro         =               -33.66
+Energy_SolvP    =               1032.94
+Energy_SolvH    =               -976.49
+Energy_vdwclash =               25.77
+energy_torsion  =               15.67
+backbone_vdwclash=              404.92
+Entropy_sidec   =               360.06
+Entropy_mainc   =               927.10
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -70.17
+
+running mutagenesis ALAA604 in GLY
+1 MOVING NEIGHBOUR RESIDUE = 591 VAL
+1 MOVING NEIGHBOUR RESIDUE = 598 PRO
+1 MOVING NEIGHBOUR RESIDUE = 593 TYR
+1 MOVING NEIGHBOUR RESIDUE = 501 TRP
+1 MOVING NEIGHBOUR RESIDUE = 604 PRO
+Residue Number= 604 GLY	
+BackHbond       =               -427.66
+SideHbond       =               -219.40
+Energy_VdW      =               -760.32
+Electro         =               -33.66
+Energy_SolvP    =               1032.60
+Energy_SolvH    =               -975.83
+Energy_vdwclash =               25.58
+energy_torsion  =               15.67
+backbone_vdwclash=              404.92
+Entropy_sidec   =               360.05
+Entropy_mainc   =               926.96
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -69.79
+
+running mutagenesis ALAA604 in ALA
+2 MOVING NEIGHBOUR RESIDUE = 591 VAL
+2 MOVING NEIGHBOUR RESIDUE = 598 PRO
+2 MOVING NEIGHBOUR RESIDUE = 593 TYR
+2 MOVING NEIGHBOUR RESIDUE = 501 TRP
+2 MOVING NEIGHBOUR RESIDUE = 604 PRO
+Residue Number= 604 ALA	
+BackHbond       =               -427.66
+SideHbond       =               -219.40
+Energy_VdW      =               -760.71
+Electro         =               -33.66
+Energy_SolvP    =               1032.93
+Energy_SolvH    =               -976.49
+Energy_vdwclash =               25.79
+energy_torsion  =               15.67
+backbone_vdwclash=              404.92
+Entropy_sidec   =               360.06
+Entropy_mainc   =               927.10
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -70.15
+
+running mutagenesis ALAA604 in LEU
+3 MOVING NEIGHBOUR RESIDUE = 591 VAL
+3 MOVING NEIGHBOUR RESIDUE = 598 PRO
+3 MOVING NEIGHBOUR RESIDUE = 593 TYR
+3 MOVING NEIGHBOUR RESIDUE = 501 TRP
+3 MOVING NEIGHBOUR RESIDUE = 604 PRO
+Residue Number= 604 LEU	
+BackHbond       =               -427.66
+SideHbond       =               -219.40
+Energy_VdW      =               -761.26
+Electro         =               -33.66
+Energy_SolvP    =               1033.75
+Energy_SolvH    =               -977.39
+Energy_vdwclash =               25.71
+energy_torsion  =               15.73
+backbone_vdwclash=              404.91
+Entropy_sidec   =               360.47
+Entropy_mainc   =               927.31
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -70.19
+
+running mutagenesis ALAA604 in VAL
+4 MOVING NEIGHBOUR RESIDUE = 591 VAL
+4 MOVING NEIGHBOUR RESIDUE = 598 PRO
+4 MOVING NEIGHBOUR RESIDUE = 593 TYR
+4 MOVING NEIGHBOUR RESIDUE = 501 TRP
+4 MOVING NEIGHBOUR RESIDUE = 604 PRO
+Residue Number= 604 VAL	
+BackHbond       =               -427.66
+SideHbond       =               -219.40
+Energy_VdW      =               -761.25
+Electro         =               -33.66
+Energy_SolvP    =               1033.47
+Energy_SolvH    =               -977.41
+Energy_vdwclash =               26.74
+energy_torsion  =               15.67
+backbone_vdwclash=              404.91
+Entropy_sidec   =               360.45
+Entropy_mainc   =               927.69
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -69.14
+
+running mutagenesis ALAA604 in ILE
+5 MOVING NEIGHBOUR RESIDUE = 591 VAL
+5 MOVING NEIGHBOUR RESIDUE = 598 PRO
+5 MOVING NEIGHBOUR RESIDUE = 593 TYR
+5 MOVING NEIGHBOUR RESIDUE = 501 TRP
+5 MOVING NEIGHBOUR RESIDUE = 604 PRO
+Residue Number= 604 ILE	
+BackHbond       =               -427.66
+SideHbond       =               -219.40
+Energy_VdW      =               -761.39
+Electro         =               -33.66
+Energy_SolvP    =               1033.62
+Energy_SolvH    =               -977.68
+Energy_vdwclash =               26.66
+energy_torsion  =               15.68
+backbone_vdwclash=              404.91
+Entropy_sidec   =               360.58
+Entropy_mainc   =               927.72
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -69.31
+
+running mutagenesis ALAA604 in PRO
+6 MOVING NEIGHBOUR RESIDUE = 591 VAL
+6 MOVING NEIGHBOUR RESIDUE = 598 PRO
+6 MOVING NEIGHBOUR RESIDUE = 593 TYR
+6 MOVING NEIGHBOUR RESIDUE = 501 TRP
+6 MOVING NEIGHBOUR RESIDUE = 604 PRO
+Residue Number= 604 PRO	
+BackHbond       =               -427.66
+SideHbond       =               -219.40
+Energy_VdW      =               -761.03
+Electro         =               -33.66
+Energy_SolvP    =               1032.70
+Energy_SolvH    =               -977.18
+Energy_vdwclash =               25.60
+energy_torsion  =               15.67
+backbone_vdwclash=              404.92
+Entropy_sidec   =               360.35
+Entropy_mainc   =               926.52
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -71.87
+
+running mutagenesis ALAA604 in ARG
+7 MOVING NEIGHBOUR RESIDUE = 591 VAL
+7 MOVING NEIGHBOUR RESIDUE = 598 PRO
+7 MOVING NEIGHBOUR RESIDUE = 593 TYR
+7 MOVING NEIGHBOUR RESIDUE = 501 TRP
+7 MOVING NEIGHBOUR RESIDUE = 604 PRO
+Residue Number= 604 ARG	
+BackHbond       =               -427.66
+SideHbond       =               -219.40
+Energy_VdW      =               -761.29
+Electro         =               -33.68
+Energy_SolvP    =               1033.47
+Energy_SolvH    =               -977.31
+Energy_vdwclash =               25.71
+energy_torsion  =               15.75
+backbone_vdwclash=              404.92
+Entropy_sidec   =               360.44
+Entropy_mainc   =               927.36
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -70.40
+
+running mutagenesis ALAA604 in THR
+8 MOVING NEIGHBOUR RESIDUE = 591 VAL
+8 MOVING NEIGHBOUR RESIDUE = 598 PRO
+8 MOVING NEIGHBOUR RESIDUE = 593 TYR
+8 MOVING NEIGHBOUR RESIDUE = 501 TRP
+8 MOVING NEIGHBOUR RESIDUE = 604 PRO
+Residue Number= 604 THR	
+BackHbond       =               -427.98
+SideHbond       =               -219.72
+Energy_VdW      =               -761.02
+Electro         =               -33.67
+Energy_SolvP    =               1033.48
+Energy_SolvH    =               -976.88
+Energy_vdwclash =               25.66
+energy_torsion  =               16.60
+backbone_vdwclash=              404.91
+Entropy_sidec   =               360.62
+Entropy_mainc   =               927.62
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -69.08
+
+running mutagenesis ALAA604 in SER
+9 MOVING NEIGHBOUR RESIDUE = 591 VAL
+9 MOVING NEIGHBOUR RESIDUE = 598 PRO
+9 MOVING NEIGHBOUR RESIDUE = 593 TYR
+9 MOVING NEIGHBOUR RESIDUE = 501 TRP
+9 MOVING NEIGHBOUR RESIDUE = 604 PRO
+Residue Number= 604 SER	
+BackHbond       =               -427.66
+SideHbond       =               -219.40
+Energy_VdW      =               -760.72
+Electro         =               -33.66
+Energy_SolvP    =               1033.26
+Energy_SolvH    =               -976.18
+Energy_vdwclash =               25.70
+energy_torsion  =               15.67
+backbone_vdwclash=              404.92
+Entropy_sidec   =               360.25
+Entropy_mainc   =               926.97
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -69.56
+
+running mutagenesis ALAA604 in CYS
+10 MOVING NEIGHBOUR RESIDUE = 591 VAL
+10 MOVING NEIGHBOUR RESIDUE = 598 PRO
+10 MOVING NEIGHBOUR RESIDUE = 593 TYR
+10 MOVING NEIGHBOUR RESIDUE = 501 TRP
+10 MOVING NEIGHBOUR RESIDUE = 604 PRO
+Residue Number= 604 CYS	
+BackHbond       =               -427.66
+SideHbond       =               -219.40
+Energy_VdW      =               -760.83
+Electro         =               -33.66
+Energy_SolvP    =               1033.20
+Energy_SolvH    =               -976.58
+Energy_vdwclash =               25.70
+energy_torsion  =               15.67
+backbone_vdwclash=              404.92
+Entropy_sidec   =               360.39
+Entropy_mainc   =               927.18
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -69.77
+
+running mutagenesis ALAA604 in MET
+11 MOVING NEIGHBOUR RESIDUE = 591 VAL
+11 MOVING NEIGHBOUR RESIDUE = 598 PRO
+11 MOVING NEIGHBOUR RESIDUE = 593 TYR
+11 MOVING NEIGHBOUR RESIDUE = 501 TRP
+11 MOVING NEIGHBOUR RESIDUE = 604 PRO
+Residue Number= 604 MET	
+BackHbond       =               -427.66
+SideHbond       =               -219.40
+Energy_VdW      =               -761.62
+Electro         =               -33.66
+Energy_SolvP    =               1033.52
+Energy_SolvH    =               -978.09
+Energy_vdwclash =               25.71
+energy_torsion  =               15.73
+backbone_vdwclash=              404.91
+Entropy_sidec   =               360.67
+Entropy_mainc   =               927.56
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -71.03
+
+running mutagenesis ALAA604 in LYS
+12 MOVING NEIGHBOUR RESIDUE = 591 VAL
+12 MOVING NEIGHBOUR RESIDUE = 598 PRO
+12 MOVING NEIGHBOUR RESIDUE = 593 TYR
+12 MOVING NEIGHBOUR RESIDUE = 501 TRP
+12 MOVING NEIGHBOUR RESIDUE = 604 PRO
+Residue Number= 604 LYS	
+BackHbond       =               -427.66
+SideHbond       =               -219.40
+Energy_VdW      =               -761.15
+Electro         =               -33.70
+Energy_SolvP    =               1033.40
+Energy_SolvH    =               -977.20
+Energy_vdwclash =               25.71
+energy_torsion  =               15.67
+backbone_vdwclash=              404.92
+Entropy_sidec   =               360.41
+Entropy_mainc   =               927.21
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -70.49
+
+running mutagenesis ALAA604 in GLU
+13 MOVING NEIGHBOUR RESIDUE = 591 VAL
+13 MOVING NEIGHBOUR RESIDUE = 598 PRO
+13 MOVING NEIGHBOUR RESIDUE = 593 TYR
+13 MOVING NEIGHBOUR RESIDUE = 501 TRP
+13 MOVING NEIGHBOUR RESIDUE = 604 PRO
+Residue Number= 604 GLU	
+BackHbond       =               -427.66
+SideHbond       =               -220.68
+Energy_VdW      =               -761.23
+Electro         =               -33.76
+Energy_SolvP    =               1033.78
+Energy_SolvH    =               -977.18
+Energy_vdwclash =               25.67
+energy_torsion  =               15.74
+backbone_vdwclash=              404.91
+Entropy_sidec   =               361.27
+Entropy_mainc   =               927.21
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -70.62
+
+running mutagenesis ALAA604 in GLN
+14 MOVING NEIGHBOUR RESIDUE = 591 VAL
+14 MOVING NEIGHBOUR RESIDUE = 598 PRO
+14 MOVING NEIGHBOUR RESIDUE = 593 TYR
+14 MOVING NEIGHBOUR RESIDUE = 501 TRP
+14 MOVING NEIGHBOUR RESIDUE = 604 PRO
+Residue Number= 604 GLN	
+BackHbond       =               -427.66
+SideHbond       =               -220.58
+Energy_VdW      =               -761.45
+Electro         =               -33.66
+Energy_SolvP    =               1033.52
+Energy_SolvH    =               -977.52
+Energy_vdwclash =               25.85
+energy_torsion  =               16.13
+backbone_vdwclash=              404.91
+Entropy_sidec   =               361.22
+Entropy_mainc   =               927.29
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -70.65
+
+running mutagenesis ALAA604 in ASP
+15 MOVING NEIGHBOUR RESIDUE = 591 VAL
+15 MOVING NEIGHBOUR RESIDUE = 598 PRO
+15 MOVING NEIGHBOUR RESIDUE = 593 TYR
+15 MOVING NEIGHBOUR RESIDUE = 501 TRP
+15 MOVING NEIGHBOUR RESIDUE = 604 PRO
+Residue Number= 604 ASP	
+BackHbond       =               -427.66
+SideHbond       =               -219.40
+Energy_VdW      =               -760.87
+Electro         =               -33.26
+Energy_SolvP    =               1033.49
+Energy_SolvH    =               -976.61
+Energy_vdwclash =               25.71
+energy_torsion  =               15.67
+backbone_vdwclash=              404.91
+Entropy_sidec   =               360.32
+Entropy_mainc   =               927.26
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -69.13
+
+running mutagenesis ALAA604 in ASN
+16 MOVING NEIGHBOUR RESIDUE = 591 VAL
+16 MOVING NEIGHBOUR RESIDUE = 598 PRO
+16 MOVING NEIGHBOUR RESIDUE = 593 TYR
+16 MOVING NEIGHBOUR RESIDUE = 501 TRP
+16 MOVING NEIGHBOUR RESIDUE = 604 PRO
+Residue Number= 604 ASN	
+BackHbond       =               -428.24
+SideHbond       =               -219.98
+Energy_VdW      =               -760.98
+Electro         =               -33.66
+Energy_SolvP    =               1033.66
+Energy_SolvH    =               -976.72
+Energy_vdwclash =               25.71
+energy_torsion  =               15.68
+backbone_vdwclash=              404.92
+Entropy_sidec   =               360.76
+Entropy_mainc   =               927.65
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -69.91
+
+running mutagenesis ALAA604 in TRP
+17 MOVING NEIGHBOUR RESIDUE = 591 VAL
+17 MOVING NEIGHBOUR RESIDUE = 598 PRO
+17 MOVING NEIGHBOUR RESIDUE = 593 TYR
+17 MOVING NEIGHBOUR RESIDUE = 501 TRP
+17 MOVING NEIGHBOUR RESIDUE = 604 PRO
+Residue Number= 604 TRP	
+BackHbond       =               -427.66
+SideHbond       =               -219.40
+Energy_VdW      =               -761.65
+Electro         =               -33.66
+Energy_SolvP    =               1033.87
+Energy_SolvH    =               -977.89
+Energy_vdwclash =               25.71
+energy_torsion  =               15.67
+backbone_vdwclash=              404.91
+Entropy_sidec   =               360.66
+Entropy_mainc   =               927.66
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -70.47
+
+running mutagenesis ALAA604 in TYR
+18 MOVING NEIGHBOUR RESIDUE = 591 VAL
+18 MOVING NEIGHBOUR RESIDUE = 598 PRO
+18 MOVING NEIGHBOUR RESIDUE = 593 TYR
+18 MOVING NEIGHBOUR RESIDUE = 501 TRP
+18 MOVING NEIGHBOUR RESIDUE = 604 PRO
+Residue Number= 604 TYR	
+BackHbond       =               -427.66
+SideHbond       =               -219.40
+Energy_VdW      =               -761.60
+Electro         =               -33.70
+Energy_SolvP    =               1033.51
+Energy_SolvH    =               -977.89
+Energy_vdwclash =               25.71
+energy_torsion  =               16.03
+backbone_vdwclash=              404.92
+Entropy_sidec   =               360.69
+Entropy_mainc   =               927.48
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -70.63
+
+running mutagenesis ALAA604 in PHE
+19 MOVING NEIGHBOUR RESIDUE = 591 VAL
+19 MOVING NEIGHBOUR RESIDUE = 598 PRO
+19 MOVING NEIGHBOUR RESIDUE = 593 TYR
+19 MOVING NEIGHBOUR RESIDUE = 501 TRP
+19 MOVING NEIGHBOUR RESIDUE = 604 PRO
+Residue Number= 604 PHE	
+BackHbond       =               -427.66
+SideHbond       =               -219.40
+Energy_VdW      =               -761.34
+Electro         =               -33.78
+Energy_SolvP    =               1033.70
+Energy_SolvH    =               -977.39
+Energy_vdwclash =               25.74
+energy_torsion  =               15.68
+backbone_vdwclash=              404.91
+Entropy_sidec   =               360.62
+Entropy_mainc   =               927.53
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -70.08
+
+running mutagenesis ALAA604 in HIS
+20 MOVING NEIGHBOUR RESIDUE = 591 VAL
+20 MOVING NEIGHBOUR RESIDUE = 598 PRO
+20 MOVING NEIGHBOUR RESIDUE = 593 TYR
+20 MOVING NEIGHBOUR RESIDUE = 501 TRP
+20 MOVING NEIGHBOUR RESIDUE = 604 PRO
+Residue Number= 604 H1S	
+BackHbond       =               -428.03
+SideHbond       =               -219.77
+Energy_VdW      =               -761.07
+Electro         =               -33.66
+Energy_SolvP    =               1033.80
+Energy_SolvH    =               -976.88
+Energy_vdwclash =               25.70
+energy_torsion  =               15.67
+backbone_vdwclash=              404.92
+Entropy_sidec   =               360.74
+Entropy_mainc   =               927.48
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             3.02
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -69.76
+
+Residue PRO605 identified.
+running mutagenesis PROA605 in PRO
+0 MOVING NEIGHBOUR RESIDUE = 535 LEU
+0 MOVING NEIGHBOUR RESIDUE = 575 TRP
+0 MOVING NEIGHBOUR RESIDUE = 503 THR
+0 MOVING NEIGHBOUR RESIDUE = 574 ASP
+0 MOVING NEIGHBOUR RESIDUE = 531 VAL
+Residue Number= 605 PRO	
+BackHbond       =               -427.69
+SideHbond       =               -219.40
+Energy_VdW      =               -760.90
+Electro         =               -33.66
+Energy_SolvP    =               1032.96
+Energy_SolvH    =               -976.87
+Energy_vdwclash =               25.91
+energy_torsion  =               15.64
+backbone_vdwclash=              404.96
+Entropy_sidec   =               360.15
+Entropy_mainc   =               927.11
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -70.53
+
+running mutagenesis PROA605 in GLY
+1 MOVING NEIGHBOUR RESIDUE = 535 LEU
+1 MOVING NEIGHBOUR RESIDUE = 575 TRP
+1 MOVING NEIGHBOUR RESIDUE = 503 THR
+1 MOVING NEIGHBOUR RESIDUE = 574 ASP
+1 MOVING NEIGHBOUR RESIDUE = 531 VAL
+Residue Number= 605 GLY	
+BackHbond       =               -427.65
+SideHbond       =               -219.32
+Energy_VdW      =               -759.87
+Electro         =               -33.68
+Energy_SolvP    =               1033.35
+Energy_SolvH    =               -974.66
+Energy_vdwclash =               25.73
+energy_torsion  =               15.69
+backbone_vdwclash=              405.02
+Entropy_sidec   =               359.80
+Entropy_mainc   =               927.21
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -67.19
+
+running mutagenesis PROA605 in ALA
+2 MOVING NEIGHBOUR RESIDUE = 535 LEU
+2 MOVING NEIGHBOUR RESIDUE = 575 TRP
+2 MOVING NEIGHBOUR RESIDUE = 503 THR
+2 MOVING NEIGHBOUR RESIDUE = 574 ASP
+2 MOVING NEIGHBOUR RESIDUE = 531 VAL
+Residue Number= 605 ALA	
+BackHbond       =               -427.66
+SideHbond       =               -219.37
+Energy_VdW      =               -760.12
+Electro         =               -33.68
+Energy_SolvP    =               1033.26
+Energy_SolvH    =               -975.29
+Energy_vdwclash =               25.67
+energy_torsion  =               15.71
+backbone_vdwclash=              404.99
+Entropy_sidec   =               359.85
+Entropy_mainc   =               927.22
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -68.20
+
+running mutagenesis PROA605 in LEU
+3 MOVING NEIGHBOUR RESIDUE = 535 LEU
+3 MOVING NEIGHBOUR RESIDUE = 575 TRP
+3 MOVING NEIGHBOUR RESIDUE = 503 THR
+3 MOVING NEIGHBOUR RESIDUE = 574 ASP
+3 MOVING NEIGHBOUR RESIDUE = 531 VAL
+Residue Number= 605 LEU	
+BackHbond       =               -427.66
+SideHbond       =               -219.37
+Energy_VdW      =               -760.95
+Electro         =               -33.68
+Energy_SolvP    =               1034.05
+Energy_SolvH    =               -976.86
+Energy_vdwclash =               25.68
+energy_torsion  =               15.70
+backbone_vdwclash=              405.03
+Entropy_sidec   =               360.54
+Entropy_mainc   =               927.31
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -69.03
+
+running mutagenesis PROA605 in VAL
+4 MOVING NEIGHBOUR RESIDUE = 535 LEU
+4 MOVING NEIGHBOUR RESIDUE = 575 TRP
+4 MOVING NEIGHBOUR RESIDUE = 503 THR
+4 MOVING NEIGHBOUR RESIDUE = 574 ASP
+4 MOVING NEIGHBOUR RESIDUE = 531 VAL
+Residue Number= 605 VAL	
+BackHbond       =               -427.66
+SideHbond       =               -219.37
+Energy_VdW      =               -760.73
+Electro         =               -33.68
+Energy_SolvP    =               1034.01
+Energy_SolvH    =               -976.39
+Energy_vdwclash =               25.75
+energy_torsion  =               15.75
+backbone_vdwclash=              404.99
+Entropy_sidec   =               360.35
+Entropy_mainc   =               927.34
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -68.42
+
+running mutagenesis PROA605 in ILE
+5 MOVING NEIGHBOUR RESIDUE = 535 LEU
+5 MOVING NEIGHBOUR RESIDUE = 575 TRP
+5 MOVING NEIGHBOUR RESIDUE = 503 THR
+5 MOVING NEIGHBOUR RESIDUE = 574 ASP
+5 MOVING NEIGHBOUR RESIDUE = 531 VAL
+Residue Number= 605 ILE	
+BackHbond       =               -427.66
+SideHbond       =               -219.37
+Energy_VdW      =               -761.10
+Electro         =               -33.68
+Energy_SolvP    =               1034.21
+Energy_SolvH    =               -977.17
+Energy_vdwclash =               25.75
+energy_torsion  =               15.76
+backbone_vdwclash=              404.99
+Entropy_sidec   =               360.65
+Entropy_mainc   =               927.35
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -69.05
+
+running mutagenesis PROA605 in PRO
+6 MOVING NEIGHBOUR RESIDUE = 535 LEU
+6 MOVING NEIGHBOUR RESIDUE = 575 TRP
+6 MOVING NEIGHBOUR RESIDUE = 503 THR
+6 MOVING NEIGHBOUR RESIDUE = 574 ASP
+6 MOVING NEIGHBOUR RESIDUE = 531 VAL
+Residue Number= 605 PRO	
+BackHbond       =               -427.65
+SideHbond       =               -219.32
+Energy_VdW      =               -760.96
+Electro         =               -33.68
+Energy_SolvP    =               1033.19
+Energy_SolvH    =               -976.94
+Energy_vdwclash =               25.93
+energy_torsion  =               15.69
+backbone_vdwclash=              405.02
+Entropy_sidec   =               360.15
+Entropy_mainc   =               927.12
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -70.25
+
+running mutagenesis PROA605 in ARG
+7 MOVING NEIGHBOUR RESIDUE = 535 LEU
+7 MOVING NEIGHBOUR RESIDUE = 575 TRP
+7 MOVING NEIGHBOUR RESIDUE = 503 THR
+7 MOVING NEIGHBOUR RESIDUE = 574 ASP
+7 MOVING NEIGHBOUR RESIDUE = 531 VAL
+Residue Number= 605 ARG	
+BackHbond       =               -427.73
+SideHbond       =               -220.85
+Energy_VdW      =               -761.12
+Electro         =               -34.11
+Energy_SolvP    =               1034.50
+Energy_SolvH    =               -976.53
+Energy_vdwclash =               25.68
+energy_torsion  =               15.77
+backbone_vdwclash=              405.06
+Entropy_sidec   =               361.71
+Entropy_mainc   =               927.30
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -69.16
+
+running mutagenesis PROA605 in THR
+8 MOVING NEIGHBOUR RESIDUE = 535 LEU
+8 MOVING NEIGHBOUR RESIDUE = 575 TRP
+8 MOVING NEIGHBOUR RESIDUE = 503 THR
+8 MOVING NEIGHBOUR RESIDUE = 574 ASP
+8 MOVING NEIGHBOUR RESIDUE = 531 VAL
+Residue Number= 605 THR	
+BackHbond       =               -427.66
+SideHbond       =               -219.37
+Energy_VdW      =               -760.59
+Electro         =               -33.68
+Energy_SolvP    =               1033.83
+Energy_SolvH    =               -976.08
+Energy_vdwclash =               25.81
+energy_torsion  =               15.72
+backbone_vdwclash=              404.99
+Entropy_sidec   =               360.29
+Entropy_mainc   =               927.29
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -68.24
+
+running mutagenesis PROA605 in SER
+9 MOVING NEIGHBOUR RESIDUE = 535 LEU
+9 MOVING NEIGHBOUR RESIDUE = 575 TRP
+9 MOVING NEIGHBOUR RESIDUE = 503 THR
+9 MOVING NEIGHBOUR RESIDUE = 574 ASP
+9 MOVING NEIGHBOUR RESIDUE = 531 VAL
+Residue Number= 605 SER	
+BackHbond       =               -427.66
+SideHbond       =               -219.37
+Energy_VdW      =               -760.15
+Electro         =               -33.68
+Energy_SolvP    =               1033.51
+Energy_SolvH    =               -975.03
+Energy_vdwclash =               25.67
+energy_torsion  =               15.69
+backbone_vdwclash=              404.99
+Entropy_sidec   =               360.05
+Entropy_mainc   =               927.26
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -67.50
+
+running mutagenesis PROA605 in CYS
+10 MOVING NEIGHBOUR RESIDUE = 535 LEU
+10 MOVING NEIGHBOUR RESIDUE = 575 TRP
+10 MOVING NEIGHBOUR RESIDUE = 503 THR
+10 MOVING NEIGHBOUR RESIDUE = 574 ASP
+10 MOVING NEIGHBOUR RESIDUE = 531 VAL
+Residue Number= 605 CYS	
+BackHbond       =               -427.66
+SideHbond       =               -219.37
+Energy_VdW      =               -760.41
+Electro         =               -33.68
+Energy_SolvP    =               1033.43
+Energy_SolvH    =               -975.64
+Energy_vdwclash =               25.67
+energy_torsion  =               15.69
+backbone_vdwclash=              405.02
+Entropy_sidec   =               360.26
+Entropy_mainc   =               927.24
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -68.26
+
+running mutagenesis PROA605 in MET
+11 MOVING NEIGHBOUR RESIDUE = 535 LEU
+11 MOVING NEIGHBOUR RESIDUE = 575 TRP
+11 MOVING NEIGHBOUR RESIDUE = 503 THR
+11 MOVING NEIGHBOUR RESIDUE = 574 ASP
+11 MOVING NEIGHBOUR RESIDUE = 531 VAL
+Residue Number= 605 MET	
+BackHbond       =               -427.66
+SideHbond       =               -219.37
+Energy_VdW      =               -761.18
+Electro         =               -33.68
+Energy_SolvP    =               1033.89
+Energy_SolvH    =               -977.09
+Energy_vdwclash =               25.73
+energy_torsion  =               15.69
+backbone_vdwclash=              405.09
+Entropy_sidec   =               360.71
+Entropy_mainc   =               927.26
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -69.48
+
+running mutagenesis PROA605 in LYS
+12 MOVING NEIGHBOUR RESIDUE = 535 LEU
+12 MOVING NEIGHBOUR RESIDUE = 575 TRP
+12 MOVING NEIGHBOUR RESIDUE = 503 THR
+12 MOVING NEIGHBOUR RESIDUE = 574 ASP
+12 MOVING NEIGHBOUR RESIDUE = 531 VAL
+Residue Number= 605 LYS	
+BackHbond       =               -427.66
+SideHbond       =               -219.37
+Energy_VdW      =               -760.97
+Electro         =               -33.82
+Energy_SolvP    =               1034.06
+Energy_SolvH    =               -976.73
+Energy_vdwclash =               25.67
+energy_torsion  =               15.69
+backbone_vdwclash=              405.05
+Entropy_sidec   =               360.69
+Entropy_mainc   =               927.26
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -68.97
+
+running mutagenesis PROA605 in GLU
+13 MOVING NEIGHBOUR RESIDUE = 535 LEU
+13 MOVING NEIGHBOUR RESIDUE = 575 TRP
+13 MOVING NEIGHBOUR RESIDUE = 503 THR
+13 MOVING NEIGHBOUR RESIDUE = 574 ASP
+13 MOVING NEIGHBOUR RESIDUE = 531 VAL
+Residue Number= 605 GLU	
+BackHbond       =               -427.66
+SideHbond       =               -219.37
+Energy_VdW      =               -760.65
+Electro         =               -33.51
+Energy_SolvP    =               1034.02
+Energy_SolvH    =               -976.15
+Energy_vdwclash =               25.68
+energy_torsion  =               15.70
+backbone_vdwclash=              405.01
+Entropy_sidec   =               360.40
+Entropy_mainc   =               927.30
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -68.03
+
+running mutagenesis PROA605 in GLN
+14 MOVING NEIGHBOUR RESIDUE = 535 LEU
+14 MOVING NEIGHBOUR RESIDUE = 575 TRP
+14 MOVING NEIGHBOUR RESIDUE = 503 THR
+14 MOVING NEIGHBOUR RESIDUE = 574 ASP
+14 MOVING NEIGHBOUR RESIDUE = 531 VAL
+Residue Number= 605 GLN	
+BackHbond       =               -427.66
+SideHbond       =               -219.37
+Energy_VdW      =               -760.86
+Electro         =               -33.68
+Energy_SolvP    =               1034.16
+Energy_SolvH    =               -976.33
+Energy_vdwclash =               25.67
+energy_torsion  =               15.70
+backbone_vdwclash=              405.04
+Entropy_sidec   =               360.63
+Entropy_mainc   =               927.29
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -68.25
+
+running mutagenesis PROA605 in ASP
+15 MOVING NEIGHBOUR RESIDUE = 535 LEU
+15 MOVING NEIGHBOUR RESIDUE = 575 TRP
+15 MOVING NEIGHBOUR RESIDUE = 503 THR
+15 MOVING NEIGHBOUR RESIDUE = 574 ASP
+15 MOVING NEIGHBOUR RESIDUE = 531 VAL
+Residue Number= 605 ASP	
+BackHbond       =               -427.66
+SideHbond       =               -219.37
+Energy_VdW      =               -760.30
+Electro         =               -33.55
+Energy_SolvP    =               1033.88
+Energy_SolvH    =               -975.49
+Energy_vdwclash =               25.67
+energy_torsion  =               15.69
+backbone_vdwclash=              404.99
+Entropy_sidec   =               360.16
+Entropy_mainc   =               927.27
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -67.49
+
+running mutagenesis PROA605 in ASN
+16 MOVING NEIGHBOUR RESIDUE = 535 LEU
+16 MOVING NEIGHBOUR RESIDUE = 575 TRP
+16 MOVING NEIGHBOUR RESIDUE = 503 THR
+16 MOVING NEIGHBOUR RESIDUE = 574 ASP
+16 MOVING NEIGHBOUR RESIDUE = 531 VAL
+Residue Number= 605 ASN	
+BackHbond       =               -427.66
+SideHbond       =               -219.37
+Energy_VdW      =               -760.50
+Electro         =               -33.68
+Energy_SolvP    =               1033.95
+Energy_SolvH    =               -975.71
+Energy_vdwclash =               25.67
+energy_torsion  =               15.70
+backbone_vdwclash=              404.99
+Entropy_sidec   =               360.25
+Entropy_mainc   =               927.27
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -67.88
+
+running mutagenesis PROA605 in TRP
+17 MOVING NEIGHBOUR RESIDUE = 535 LEU
+17 MOVING NEIGHBOUR RESIDUE = 575 TRP
+17 MOVING NEIGHBOUR RESIDUE = 503 THR
+17 MOVING NEIGHBOUR RESIDUE = 574 ASP
+17 MOVING NEIGHBOUR RESIDUE = 531 VAL
+Residue Number= 605 TRP	
+BackHbond       =               -427.76
+SideHbond       =               -219.37
+Energy_VdW      =               -761.63
+Electro         =               -33.68
+Energy_SolvP    =               1034.48
+Energy_SolvH    =               -977.71
+Energy_vdwclash =               26.87
+energy_torsion  =               15.73
+backbone_vdwclash=              405.14
+Entropy_sidec   =               361.01
+Entropy_mainc   =               927.27
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -68.59
+
+running mutagenesis PROA605 in TYR
+18 MOVING NEIGHBOUR RESIDUE = 535 LEU
+18 MOVING NEIGHBOUR RESIDUE = 575 TRP
+18 MOVING NEIGHBOUR RESIDUE = 503 THR
+18 MOVING NEIGHBOUR RESIDUE = 574 ASP
+18 MOVING NEIGHBOUR RESIDUE = 531 VAL
+Residue Number= 605 TYR	
+BackHbond       =               -427.66
+SideHbond       =               -219.37
+Energy_VdW      =               -761.00
+Electro         =               -34.25
+Energy_SolvP    =               1034.04
+Energy_SolvH    =               -976.71
+Energy_vdwclash =               25.66
+energy_torsion  =               15.71
+backbone_vdwclash=              405.03
+Entropy_sidec   =               360.82
+Entropy_mainc   =               927.29
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -69.26
+
+running mutagenesis PROA605 in PHE
+19 MOVING NEIGHBOUR RESIDUE = 535 LEU
+19 MOVING NEIGHBOUR RESIDUE = 575 TRP
+19 MOVING NEIGHBOUR RESIDUE = 503 THR
+19 MOVING NEIGHBOUR RESIDUE = 574 ASP
+19 MOVING NEIGHBOUR RESIDUE = 531 VAL
+Residue Number= 605 PHE	
+BackHbond       =               -427.66
+SideHbond       =               -219.37
+Energy_VdW      =               -761.12
+Electro         =               -34.24
+Energy_SolvP    =               1034.11
+Energy_SolvH    =               -976.92
+Energy_vdwclash =               25.73
+energy_torsion  =               15.71
+backbone_vdwclash=              405.06
+Entropy_sidec   =               360.71
+Entropy_mainc   =               927.32
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             2.98
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -69.52
+
+running mutagenesis PROA605 in HIS
+20 MOVING NEIGHBOUR RESIDUE = 535 LEU
+20 MOVING NEIGHBOUR RESIDUE = 575 TRP
+20 MOVING NEIGHBOUR RESIDUE = 503 THR
+20 MOVING NEIGHBOUR RESIDUE = 574 ASP
+20 MOVING NEIGHBOUR RESIDUE = 531 VAL
+Residue Number= 605 H1S	
+BackHbond       =               -427.66
+SideHbond       =               -219.37
+Energy_VdW      =               -760.96
+Electro         =               -33.68
+Energy_SolvP    =               1034.54
+Energy_SolvH    =               -976.32
+Energy_vdwclash =               25.66
+energy_torsion  =               15.69
+backbone_vdwclash=              405.05
+Entropy_sidec   =               360.51
+Entropy_mainc   =               927.27
+water bonds     =               0.00
+helix dipole    =               -12.86
+loop_entropy    =               0.00
+cis_bond        =               3.37
+disulfide       =               -7.27
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             3.06
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -68.03
+
+Command PositionScan runtime = 372.85 seconds.
+
+Pdb RepairPDB_1JS4_A.pdb runtime = 372.98 seconds.
+
+total run time = 372.98 seconds.
+
+End time of FoldX: Tue May 13 10:02:39 2014
+
+Total time spend: 375 seconds.
+
+ *** End of FoldX run. Bye. *** 

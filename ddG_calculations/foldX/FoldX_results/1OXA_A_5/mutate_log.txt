@@ -1,0 +1,600 @@
+   ********************************************
+   ***                                      ***
+   ***           FoldX 3.0 Beta 6 (c)       ***
+   ***                                      ***
+   ***     code by the FoldX consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***        and Francois Stricher         ***
+   *** and any other of the 5! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Start time of FoldX: Tue May 13 09:56:24 2014
+
+RepairPDB_1OXA_A.pdb
+1 models read.
+
+BackHbond       =               -288.25
+SideHbond       =               -122.84
+Energy_VdW      =               -482.53
+Electro         =               -25.09
+Energy_SolvP    =               650.52
+Energy_SolvH    =               -635.73
+Energy_vdwclash =               19.76
+energy_torsion  =               11.34
+backbone_vdwclash=              301.65
+Entropy_sidec   =               248.51
+Entropy_mainc   =               598.51
+water bonds     =               0.00
+helix dipole    =               -7.79
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.88
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -31.59
+
+Residue GLY404 identified.
+running mutagenesis GLYA404 in GLY
+0 MOVING NEIGHBOUR RESIDUE = 401 ASP
+Residue Number= 404 GLY	
+BackHbond       =               -287.81
+SideHbond       =               -120.92
+Energy_VdW      =               -482.08
+Electro         =               -25.54
+Energy_SolvP    =               648.89
+Energy_SolvH    =               -635.44
+Energy_vdwclash =               19.73
+energy_torsion  =               11.15
+backbone_vdwclash=              301.54
+Entropy_sidec   =               247.57
+Entropy_mainc   =               598.38
+water bonds     =               0.00
+helix dipole    =               -7.81
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.88
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -31.87
+
+running mutagenesis GLYA404 in GLY
+1 MOVING NEIGHBOUR RESIDUE = 401 ASP
+Residue Number= 404 GLY	
+BackHbond       =               -287.81
+SideHbond       =               -120.92
+Energy_VdW      =               -482.08
+Electro         =               -25.54
+Energy_SolvP    =               648.89
+Energy_SolvH    =               -635.44
+Energy_vdwclash =               19.73
+energy_torsion  =               11.15
+backbone_vdwclash=              301.54
+Entropy_sidec   =               247.57
+Entropy_mainc   =               598.38
+water bonds     =               0.00
+helix dipole    =               -7.81
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.88
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -31.87
+
+running mutagenesis GLYA404 in ALA
+2 MOVING NEIGHBOUR RESIDUE = 401 ASP
+Residue Number= 404 ALA	
+BackHbond       =               -287.81
+SideHbond       =               -120.92
+Energy_VdW      =               -482.27
+Electro         =               -25.54
+Energy_SolvP    =               649.48
+Energy_SolvH    =               -635.64
+Energy_vdwclash =               21.10
+energy_torsion  =               11.15
+backbone_vdwclash=              301.63
+Entropy_sidec   =               247.59
+Entropy_mainc   =               598.55
+water bonds     =               0.00
+helix dipole    =               -7.81
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.88
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -30.11
+
+running mutagenesis GLYA404 in LEU
+3 MOVING NEIGHBOUR RESIDUE = 401 ASP
+Residue Number= 404 LEU	
+BackHbond       =               -288.25
+SideHbond       =               -122.51
+Energy_VdW      =               -483.17
+Electro         =               -25.20
+Energy_SolvP    =               652.13
+Energy_SolvH    =               -636.59
+Energy_vdwclash =               21.15
+energy_torsion  =               11.17
+backbone_vdwclash=              301.80
+Entropy_sidec   =               248.67
+Entropy_mainc   =               599.04
+water bonds     =               0.00
+helix dipole    =               -7.81
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.88
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -29.37
+
+running mutagenesis GLYA404 in VAL
+4 MOVING NEIGHBOUR RESIDUE = 401 ASP
+Residue Number= 404 VAL	
+BackHbond       =               -287.81
+SideHbond       =               -120.92
+Energy_VdW      =               -482.48
+Electro         =               -25.60
+Energy_SolvP    =               650.41
+Energy_SolvH    =               -635.80
+Energy_vdwclash =               21.31
+energy_torsion  =               11.47
+backbone_vdwclash=              301.68
+Entropy_sidec   =               247.93
+Entropy_mainc   =               598.79
+water bonds     =               0.00
+helix dipole    =               -7.81
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.88
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -28.48
+
+running mutagenesis GLYA404 in ILE
+5 MOVING NEIGHBOUR RESIDUE = 401 ASP
+Residue Number= 404 ILE	
+BackHbond       =               -287.81
+SideHbond       =               -120.92
+Energy_VdW      =               -482.65
+Electro         =               -25.62
+Energy_SolvP    =               650.63
+Energy_SolvH    =               -636.10
+Energy_vdwclash =               21.26
+energy_torsion  =               11.53
+backbone_vdwclash=              301.69
+Entropy_sidec   =               248.05
+Entropy_mainc   =               598.87
+water bonds     =               0.00
+helix dipole    =               -7.81
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.88
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -28.55
+
+running mutagenesis GLYA404 in PRO
+6 MOVING NEIGHBOUR RESIDUE = 401 ASP
+Residue Number= 404 PRO	
+BackHbond       =               -287.81
+SideHbond       =               -120.92
+Energy_VdW      =               -482.62
+Electro         =               -25.55
+Energy_SolvP    =               649.81
+Energy_SolvH    =               -636.22
+Energy_vdwclash =               24.57
+energy_torsion  =               11.15
+backbone_vdwclash=              300.75
+Entropy_sidec   =               247.96
+Entropy_mainc   =               598.53
+water bonds     =               0.00
+helix dipole    =               -7.79
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.88
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -26.89
+
+running mutagenesis GLYA404 in ARG
+7 MOVING NEIGHBOUR RESIDUE = 401 ASP
+Residue Number= 404 ARG	
+BackHbond       =               -288.75
+SideHbond       =               -123.01
+Energy_VdW      =               -483.01
+Electro         =               -25.25
+Energy_SolvP    =               651.70
+Energy_SolvH    =               -636.37
+Energy_vdwclash =               21.16
+energy_torsion  =               11.24
+backbone_vdwclash=              301.74
+Entropy_sidec   =               249.16
+Entropy_mainc   =               599.22
+water bonds     =               0.00
+helix dipole    =               -7.81
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.88
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -29.71
+
+running mutagenesis GLYA404 in THR
+8 MOVING NEIGHBOUR RESIDUE = 401 ASP
+Residue Number= 404 THR	
+BackHbond       =               -287.81
+SideHbond       =               -120.92
+Energy_VdW      =               -482.37
+Electro         =               -25.57
+Energy_SolvP    =               650.07
+Energy_SolvH    =               -635.67
+Energy_vdwclash =               21.20
+energy_torsion  =               11.53
+backbone_vdwclash=              301.65
+Entropy_sidec   =               247.90
+Entropy_mainc   =               598.68
+water bonds     =               0.00
+helix dipole    =               -7.81
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.88
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -28.76
+
+running mutagenesis GLYA404 in SER
+9 MOVING NEIGHBOUR RESIDUE = 401 ASP
+Residue Number= 404 SER	
+BackHbond       =               -288.25
+SideHbond       =               -123.97
+Energy_VdW      =               -482.66
+Electro         =               -25.17
+Energy_SolvP    =               651.04
+Energy_SolvH    =               -635.79
+Energy_vdwclash =               21.77
+energy_torsion  =               11.17
+backbone_vdwclash=              301.80
+Entropy_sidec   =               248.99
+Entropy_mainc   =               598.68
+water bonds     =               0.00
+helix dipole    =               -7.81
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.88
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -29.99
+
+running mutagenesis GLYA404 in CYS
+10 MOVING NEIGHBOUR RESIDUE = 401 ASP
+Residue Number= 404 CYS	
+BackHbond       =               -288.25
+SideHbond       =               -122.88
+Energy_VdW      =               -482.77
+Electro         =               -25.16
+Energy_SolvP    =               651.36
+Energy_SolvH    =               -636.00
+Energy_vdwclash =               21.10
+energy_torsion  =               11.21
+backbone_vdwclash=              301.78
+Entropy_sidec   =               248.75
+Entropy_mainc   =               598.75
+water bonds     =               0.00
+helix dipole    =               -7.81
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.88
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -29.70
+
+running mutagenesis GLYA404 in MET
+11 MOVING NEIGHBOUR RESIDUE = 401 ASP
+Residue Number= 404 MET	
+BackHbond       =               -288.25
+SideHbond       =               -122.51
+Energy_VdW      =               -482.85
+Electro         =               -25.21
+Energy_SolvP    =               651.48
+Energy_SolvH    =               -636.20
+Energy_vdwclash =               21.11
+energy_torsion  =               11.17
+backbone_vdwclash=              301.70
+Entropy_sidec   =               248.57
+Entropy_mainc   =               598.88
+water bonds     =               0.00
+helix dipole    =               -7.81
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.88
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -29.62
+
+running mutagenesis GLYA404 in LYS
+12 MOVING NEIGHBOUR RESIDUE = 401 ASP
+Residue Number= 404 LYS	
+BackHbond       =               -288.25
+SideHbond       =               -122.51
+Energy_VdW      =               -482.86
+Electro         =               -25.16
+Energy_SolvP    =               651.48
+Energy_SolvH    =               -636.21
+Energy_vdwclash =               21.10
+energy_torsion  =               11.17
+backbone_vdwclash=              301.72
+Entropy_sidec   =               248.57
+Entropy_mainc   =               598.87
+water bonds     =               0.00
+helix dipole    =               -7.81
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.88
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -29.61
+
+running mutagenesis GLYA404 in GLU
+13 MOVING NEIGHBOUR RESIDUE = 401 ASP
+Residue Number= 404 GLU	
+BackHbond       =               -288.25
+SideHbond       =               -122.51
+Energy_VdW      =               -482.88
+Electro         =               -25.18
+Energy_SolvP    =               651.45
+Energy_SolvH    =               -636.22
+Energy_vdwclash =               21.12
+energy_torsion  =               11.17
+backbone_vdwclash=              301.75
+Entropy_sidec   =               248.60
+Entropy_mainc   =               598.87
+water bonds     =               0.00
+helix dipole    =               -7.81
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.88
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -29.64
+
+running mutagenesis GLYA404 in GLN
+14 MOVING NEIGHBOUR RESIDUE = 401 ASP
+Residue Number= 404 GLN	
+BackHbond       =               -288.80
+SideHbond       =               -123.69
+Energy_VdW      =               -483.33
+Electro         =               -25.20
+Energy_SolvP    =               652.58
+Energy_SolvH    =               -636.42
+Energy_vdwclash =               21.13
+energy_torsion  =               11.17
+backbone_vdwclash=              301.82
+Entropy_sidec   =               249.64
+Entropy_mainc   =               598.83
+water bonds     =               0.00
+helix dipole    =               -7.81
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.88
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -29.90
+
+running mutagenesis GLYA404 in ASP
+15 MOVING NEIGHBOUR RESIDUE = 401 ASP
+Residue Number= 404 ASP	
+BackHbond       =               -288.25
+SideHbond       =               -122.51
+Energy_VdW      =               -482.75
+Electro         =               -25.27
+Energy_SolvP    =               651.40
+Energy_SolvH    =               -635.98
+Energy_vdwclash =               21.09
+energy_torsion  =               11.17
+backbone_vdwclash=              301.70
+Entropy_sidec   =               248.55
+Entropy_mainc   =               598.79
+water bonds     =               0.00
+helix dipole    =               -7.78
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.88
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -29.53
+
+running mutagenesis GLYA404 in ASN
+16 MOVING NEIGHBOUR RESIDUE = 401 ASP
+Residue Number= 404 ASN	
+BackHbond       =               -288.25
+SideHbond       =               -122.51
+Energy_VdW      =               -482.80
+Electro         =               -25.19
+Energy_SolvP    =               651.47
+Energy_SolvH    =               -636.05
+Energy_vdwclash =               21.10
+energy_torsion  =               11.17
+backbone_vdwclash=              301.71
+Entropy_sidec   =               248.55
+Entropy_mainc   =               598.85
+water bonds     =               0.00
+helix dipole    =               -7.81
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.88
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -29.48
+
+running mutagenesis GLYA404 in TRP
+17 MOVING NEIGHBOUR RESIDUE = 401 ASP
+Residue Number= 404 TRP	
+BackHbond       =               -288.25
+SideHbond       =               -122.51
+Energy_VdW      =               -482.96
+Electro         =               -25.21
+Energy_SolvP    =               651.70
+Energy_SolvH    =               -636.28
+Energy_vdwclash =               21.10
+energy_torsion  =               11.17
+backbone_vdwclash=              301.73
+Entropy_sidec   =               248.60
+Entropy_mainc   =               598.90
+water bonds     =               0.00
+helix dipole    =               -7.81
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.88
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -29.54
+
+running mutagenesis GLYA404 in TYR
+18 MOVING NEIGHBOUR RESIDUE = 401 ASP
+Residue Number= 404 TYR	
+BackHbond       =               -287.81
+SideHbond       =               -120.92
+Energy_VdW      =               -482.83
+Electro         =               -26.16
+Energy_SolvP    =               650.58
+Energy_SolvH    =               -636.32
+Energy_vdwclash =               21.11
+energy_torsion  =               11.15
+backbone_vdwclash=              301.65
+Entropy_sidec   =               248.43
+Entropy_mainc   =               598.90
+water bonds     =               0.00
+helix dipole    =               -7.81
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.88
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -29.68
+
+running mutagenesis GLYA404 in PHE
+19 MOVING NEIGHBOUR RESIDUE = 401 ASP
+Residue Number= 404 PHE	
+BackHbond       =               -287.81
+SideHbond       =               -120.92
+Energy_VdW      =               -482.78
+Electro         =               -26.35
+Energy_SolvP    =               650.63
+Energy_SolvH    =               -636.28
+Energy_vdwclash =               21.10
+energy_torsion  =               11.20
+backbone_vdwclash=              301.62
+Entropy_sidec   =               248.33
+Entropy_mainc   =               598.87
+water bonds     =               0.00
+helix dipole    =               -7.81
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.88
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -29.81
+
+running mutagenesis GLYA404 in HIS
+20 MOVING NEIGHBOUR RESIDUE = 401 ASP
+Residue Number= 404 H1S	
+BackHbond       =               -288.25
+SideHbond       =               -122.51
+Energy_VdW      =               -482.94
+Electro         =               -25.21
+Energy_SolvP    =               651.80
+Energy_SolvH    =               -636.19
+Energy_vdwclash =               21.10
+energy_torsion  =               11.17
+backbone_vdwclash=              301.74
+Entropy_sidec   =               248.58
+Entropy_mainc   =               598.93
+water bonds     =               0.00
+helix dipole    =               -7.81
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.93
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -29.27
+
+Command PositionScan runtime = 50.25 seconds.
+
+Pdb RepairPDB_1OXA_A.pdb runtime = 50.33 seconds.
+
+total run time = 50.33 seconds.
+
+End time of FoldX: Tue May 13 09:57:15 2014
+
+Total time spend: 51 seconds.
+
+ *** End of FoldX run. Bye. *** 

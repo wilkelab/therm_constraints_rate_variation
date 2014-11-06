@@ -1,0 +1,579 @@
+   ********************************************
+   ***                                      ***
+   ***           FoldX 3.0 Beta 6 (c)       ***
+   ***                                      ***
+   ***     code by the FoldX consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***        and Francois Stricher         ***
+   *** and any other of the 5! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Start time of FoldX: Tue May 13 09:56:24 2014
+
+RepairPDB_1KL7_A.pdb
+1 models read.
+
+BackHbond       =               -336.93
+SideHbond       =               -184.77
+Energy_VdW      =               -617.13
+Electro         =               -23.81
+Energy_SolvP    =               844.74
+Energy_SolvH    =               -812.56
+Energy_vdwclash =               55.46
+energy_torsion  =               28.27
+backbone_vdwclash=              428.94
+Entropy_sidec   =               327.67
+Entropy_mainc   =               801.28
+water bonds     =               0.00
+helix dipole    =               -16.36
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.69
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  67.69
+
+Residue LYS511 identified.
+running mutagenesis LYSA511 in LYS
+Residue Number= 511 LYS	
+BackHbond       =               -336.93
+SideHbond       =               -184.77
+Energy_VdW      =               -617.13
+Electro         =               -23.81
+Energy_SolvP    =               844.74
+Energy_SolvH    =               -812.56
+Energy_vdwclash =               55.46
+energy_torsion  =               28.27
+backbone_vdwclash=              428.94
+Entropy_sidec   =               327.67
+Entropy_mainc   =               801.28
+water bonds     =               0.00
+helix dipole    =               -16.36
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.69
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  67.69
+
+running mutagenesis LYSA511 in GLY
+Residue Number= 511 GLY	
+BackHbond       =               -336.17
+SideHbond       =               -183.98
+Energy_VdW      =               -616.67
+Electro         =               -23.75
+Energy_SolvP    =               843.37
+Energy_SolvH    =               -812.03
+Energy_vdwclash =               55.46
+energy_torsion  =               28.27
+backbone_vdwclash=              428.94
+Entropy_sidec   =               326.81
+Entropy_mainc   =               801.06
+water bonds     =               0.00
+helix dipole    =               -16.36
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.69
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  67.82
+
+running mutagenesis LYSA511 in ALA
+Residue Number= 511 ALA	
+BackHbond       =               -336.17
+SideHbond       =               -183.98
+Energy_VdW      =               -616.77
+Electro         =               -23.75
+Energy_SolvP    =               843.79
+Energy_SolvH    =               -812.14
+Energy_vdwclash =               55.47
+energy_torsion  =               28.27
+backbone_vdwclash=              428.94
+Entropy_sidec   =               326.82
+Entropy_mainc   =               801.13
+water bonds     =               0.00
+helix dipole    =               -16.36
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.69
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  68.11
+
+running mutagenesis LYSA511 in LEU
+Residue Number= 511 LEU	
+BackHbond       =               -336.17
+SideHbond       =               -183.98
+Energy_VdW      =               -617.00
+Electro         =               -23.75
+Energy_SolvP    =               844.38
+Energy_SolvH    =               -812.42
+Energy_vdwclash =               55.46
+energy_torsion  =               28.28
+backbone_vdwclash=              428.94
+Entropy_sidec   =               326.83
+Entropy_mainc   =               801.21
+water bonds     =               0.00
+helix dipole    =               -16.36
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.69
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  68.28
+
+running mutagenesis LYSA511 in VAL
+Residue Number= 511 VAL	
+BackHbond       =               -336.17
+SideHbond       =               -183.98
+Energy_VdW      =               -617.08
+Electro         =               -23.75
+Energy_SolvP    =               844.63
+Energy_SolvH    =               -812.48
+Energy_vdwclash =               55.47
+energy_torsion  =               28.30
+backbone_vdwclash=              428.94
+Entropy_sidec   =               326.87
+Entropy_mainc   =               801.27
+water bonds     =               0.00
+helix dipole    =               -16.36
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.69
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  68.53
+
+running mutagenesis LYSA511 in ILE
+Residue Number= 511 ILE	
+BackHbond       =               -336.17
+SideHbond       =               -183.98
+Energy_VdW      =               -617.03
+Electro         =               -23.74
+Energy_SolvP    =               844.57
+Energy_SolvH    =               -812.43
+Energy_vdwclash =               55.46
+energy_torsion  =               28.30
+backbone_vdwclash=              428.94
+Entropy_sidec   =               326.85
+Entropy_mainc   =               801.21
+water bonds     =               0.00
+helix dipole    =               -16.36
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.69
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  68.50
+
+running mutagenesis LYSA511 in PRO
+Residue Number= 511 PRO	
+BackHbond       =               -335.21
+SideHbond       =               -183.98
+Energy_VdW      =               -617.03
+Electro         =               -23.75
+Energy_SolvP    =               844.20
+Energy_SolvH    =               -812.51
+Energy_vdwclash =               57.64
+energy_torsion  =               28.27
+backbone_vdwclash=              427.85
+Entropy_sidec   =               326.86
+Entropy_mainc   =               800.36
+water bonds     =               0.00
+helix dipole    =               -16.36
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.69
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  70.29
+
+running mutagenesis LYSA511 in ARG
+Residue Number= 511 ARG	
+BackHbond       =               -336.76
+SideHbond       =               -184.60
+Energy_VdW      =               -617.19
+Electro         =               -23.86
+Energy_SolvP    =               844.54
+Energy_SolvH    =               -812.63
+Energy_vdwclash =               55.46
+energy_torsion  =               28.34
+backbone_vdwclash=              428.94
+Entropy_sidec   =               327.55
+Entropy_mainc   =               801.29
+water bonds     =               0.00
+helix dipole    =               -16.36
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.69
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  67.60
+
+running mutagenesis LYSA511 in THR
+Residue Number= 511 THR	
+BackHbond       =               -336.41
+SideHbond       =               -184.26
+Energy_VdW      =               -616.91
+Electro         =               -23.75
+Energy_SolvP    =               844.27
+Energy_SolvH    =               -812.24
+Energy_vdwclash =               55.47
+energy_torsion  =               28.38
+backbone_vdwclash=              428.94
+Entropy_sidec   =               327.07
+Entropy_mainc   =               801.19
+water bonds     =               0.00
+helix dipole    =               -16.36
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.69
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  68.25
+
+running mutagenesis LYSA511 in SER
+Residue Number= 511 SER	
+BackHbond       =               -336.34
+SideHbond       =               -184.19
+Energy_VdW      =               -616.91
+Electro         =               -23.75
+Energy_SolvP    =               844.21
+Energy_SolvH    =               -812.21
+Energy_vdwclash =               55.47
+energy_torsion  =               28.32
+backbone_vdwclash=              428.94
+Entropy_sidec   =               327.03
+Entropy_mainc   =               801.17
+water bonds     =               0.00
+helix dipole    =               -16.36
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.69
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  68.24
+
+running mutagenesis LYSA511 in CYS
+Residue Number= 511 CYS	
+BackHbond       =               -336.17
+SideHbond       =               -183.98
+Energy_VdW      =               -616.89
+Electro         =               -23.75
+Energy_SolvP    =               844.05
+Energy_SolvH    =               -812.26
+Energy_vdwclash =               55.46
+energy_torsion  =               28.28
+backbone_vdwclash=              428.94
+Entropy_sidec   =               326.86
+Entropy_mainc   =               801.18
+water bonds     =               0.00
+helix dipole    =               -16.36
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.69
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  68.22
+
+running mutagenesis LYSA511 in MET
+Residue Number= 511 MET	
+BackHbond       =               -336.17
+SideHbond       =               -183.98
+Energy_VdW      =               -617.06
+Electro         =               -23.75
+Energy_SolvP    =               844.28
+Energy_SolvH    =               -812.54
+Energy_vdwclash =               55.46
+energy_torsion  =               28.27
+backbone_vdwclash=              428.94
+Entropy_sidec   =               326.87
+Entropy_mainc   =               801.27
+water bonds     =               0.00
+helix dipole    =               -16.36
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.69
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  68.11
+
+running mutagenesis LYSA511 in LYS
+Residue Number= 511 LYS	
+BackHbond       =               -336.93
+SideHbond       =               -184.77
+Energy_VdW      =               -617.13
+Electro         =               -23.81
+Energy_SolvP    =               844.74
+Energy_SolvH    =               -812.56
+Energy_vdwclash =               55.46
+energy_torsion  =               28.27
+backbone_vdwclash=              428.94
+Entropy_sidec   =               327.67
+Entropy_mainc   =               801.28
+water bonds     =               0.00
+helix dipole    =               -16.36
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.69
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  67.69
+
+running mutagenesis LYSA511 in GLU
+Residue Number= 511 GLU	
+BackHbond       =               -336.17
+SideHbond       =               -183.98
+Energy_VdW      =               -617.03
+Electro         =               -23.63
+Energy_SolvP    =               844.21
+Energy_SolvH    =               -812.51
+Energy_vdwclash =               55.46
+energy_torsion  =               28.29
+backbone_vdwclash=              428.94
+Entropy_sidec   =               326.93
+Entropy_mainc   =               801.24
+water bonds     =               0.00
+helix dipole    =               -16.36
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.69
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  68.26
+
+running mutagenesis LYSA511 in GLN
+Residue Number= 511 GLN	
+BackHbond       =               -336.67
+SideHbond       =               -184.51
+Energy_VdW      =               -617.02
+Electro         =               -23.75
+Energy_SolvP    =               844.34
+Energy_SolvH    =               -812.42
+Energy_vdwclash =               55.46
+energy_torsion  =               28.27
+backbone_vdwclash=              428.94
+Entropy_sidec   =               327.38
+Entropy_mainc   =               801.24
+water bonds     =               0.00
+helix dipole    =               -16.36
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.69
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  67.76
+
+running mutagenesis LYSA511 in ASP
+Residue Number= 511 ASP	
+BackHbond       =               -336.17
+SideHbond       =               -183.98
+Energy_VdW      =               -616.92
+Electro         =               -23.61
+Energy_SolvP    =               844.14
+Energy_SolvH    =               -812.31
+Energy_vdwclash =               55.46
+energy_torsion  =               28.27
+backbone_vdwclash=              428.94
+Entropy_sidec   =               326.90
+Entropy_mainc   =               801.18
+water bonds     =               0.00
+helix dipole    =               -16.36
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.69
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  68.42
+
+running mutagenesis LYSA511 in ASN
+Residue Number= 511 ASN	
+BackHbond       =               -335.97
+SideHbond       =               -184.11
+Energy_VdW      =               -616.91
+Electro         =               -23.75
+Energy_SolvP    =               844.18
+Energy_SolvH    =               -812.29
+Energy_vdwclash =               55.46
+energy_torsion  =               28.28
+backbone_vdwclash=              428.94
+Entropy_sidec   =               326.91
+Entropy_mainc   =               800.95
+water bonds     =               0.00
+helix dipole    =               -16.36
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.69
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  68.21
+
+running mutagenesis LYSA511 in TRP
+Residue Number= 511 TRP	
+BackHbond       =               -336.17
+SideHbond       =               -183.98
+Energy_VdW      =               -617.27
+Electro         =               -23.75
+Energy_SolvP    =               844.63
+Energy_SolvH    =               -812.76
+Energy_vdwclash =               55.46
+energy_torsion  =               28.32
+backbone_vdwclash=              428.94
+Entropy_sidec   =               326.88
+Entropy_mainc   =               801.29
+water bonds     =               0.00
+helix dipole    =               -16.36
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.69
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  68.10
+
+running mutagenesis LYSA511 in TYR
+Residue Number= 511 TYR	
+BackHbond       =               -336.17
+SideHbond       =               -185.44
+Energy_VdW      =               -617.14
+Electro         =               -25.02
+Energy_SolvP    =               845.16
+Energy_SolvH    =               -812.58
+Energy_vdwclash =               55.46
+energy_torsion  =               28.28
+backbone_vdwclash=              428.94
+Entropy_sidec   =               328.59
+Entropy_mainc   =               801.13
+water bonds     =               0.00
+helix dipole    =               -16.36
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.69
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  67.72
+
+running mutagenesis LYSA511 in PHE
+Residue Number= 511 PHE	
+BackHbond       =               -336.17
+SideHbond       =               -183.98
+Energy_VdW      =               -617.63
+Electro         =               -24.96
+Energy_SolvP    =               845.38
+Energy_SolvH    =               -813.39
+Energy_vdwclash =               55.48
+energy_torsion  =               28.37
+backbone_vdwclash=              428.94
+Entropy_sidec   =               327.83
+Entropy_mainc   =               801.35
+water bonds     =               0.00
+helix dipole    =               -16.36
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.69
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  67.72
+
+running mutagenesis LYSA511 in HIS
+Residue Number= 511 HIS	
+BackHbond       =               -336.39
+SideHbond       =               -184.38
+Energy_VdW      =               -617.05
+Electro         =               -23.87
+Energy_SolvP    =               844.53
+Energy_SolvH    =               -812.41
+Energy_vdwclash =               55.46
+energy_torsion  =               28.28
+backbone_vdwclash=              428.94
+Entropy_sidec   =               327.22
+Entropy_mainc   =               801.02
+water bonds     =               0.00
+helix dipole    =               -16.36
+loop_entropy    =               0.00
+cis_bond        =               1.12
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.94
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  68.13
+
+Command PositionScan runtime = 70.00 seconds.
+
+Pdb RepairPDB_1KL7_A.pdb runtime = 70.10 seconds.
+
+total run time = 70.10 seconds.
+
+End time of FoldX: Tue May 13 09:57:35 2014
+
+Total time spend: 71 seconds.
+
+ *** End of FoldX run. Bye. *** 

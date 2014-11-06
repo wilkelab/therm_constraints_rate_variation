@@ -1,0 +1,1252 @@
+   ********************************************
+   ***                                      ***
+   ***           FoldX 3.0 Beta 6 (c)       ***
+   ***                                      ***
+   ***     code by the FoldX consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***        and Francois Stricher         ***
+   *** and any other of the 5! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+Start time of FoldX: Tue May 13 09:56:24 2014
+
+RepairPDB_1A65_A.pdb
+1 models read.
+
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -603.77
+Electro         =               -30.94
+Energy_SolvP    =               799.88
+Energy_SolvH    =               -789.94
+Energy_vdwclash =               28.89
+energy_torsion  =               16.78
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.20
+Entropy_mainc   =               740.14
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -17.88
+
+Residue VAL503 identified.
+running mutagenesis VALA503 in VAL
+0 MOVING NEIGHBOUR RESIDUE = 117 ASP
+0 MOVING NEIGHBOUR RESIDUE = 503 VAL
+0 MOVING NEIGHBOUR RESIDUE = 22 ARG
+0 MOVING NEIGHBOUR RESIDUE = 55 THR
+0 MOVING NEIGHBOUR RESIDUE = 153 ILE
+Residue Number= 503 VAL	
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -603.77
+Electro         =               -30.94
+Energy_SolvP    =               799.88
+Energy_SolvH    =               -789.94
+Energy_vdwclash =               28.89
+energy_torsion  =               16.78
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.20
+Entropy_mainc   =               740.14
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -17.88
+
+running mutagenesis VALA503 in GLY
+1 MOVING NEIGHBOUR RESIDUE = 117 ASP
+1 MOVING NEIGHBOUR RESIDUE = 503 VAL
+1 MOVING NEIGHBOUR RESIDUE = 22 ARG
+1 MOVING NEIGHBOUR RESIDUE = 55 THR
+1 MOVING NEIGHBOUR RESIDUE = 153 ILE
+Residue Number= 503 GLY	
+BackHbond       =               -307.65
+SideHbond       =               -149.42
+Energy_VdW      =               -602.56
+Electro         =               -30.94
+Energy_SolvP    =               798.73
+Energy_SolvH    =               -787.85
+Energy_vdwclash =               28.87
+energy_torsion  =               16.82
+backbone_vdwclash=              179.93
+Entropy_sidec   =               281.56
+Entropy_mainc   =               740.15
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -16.27
+
+running mutagenesis VALA503 in ALA
+2 MOVING NEIGHBOUR RESIDUE = 117 ASP
+2 MOVING NEIGHBOUR RESIDUE = 503 VAL
+2 MOVING NEIGHBOUR RESIDUE = 22 ARG
+2 MOVING NEIGHBOUR RESIDUE = 55 THR
+2 MOVING NEIGHBOUR RESIDUE = 153 ILE
+Residue Number= 503 ALA	
+BackHbond       =               -307.65
+SideHbond       =               -149.44
+Energy_VdW      =               -602.86
+Electro         =               -30.94
+Energy_SolvP    =               799.11
+Energy_SolvH    =               -788.37
+Energy_vdwclash =               28.87
+energy_torsion  =               16.83
+backbone_vdwclash=              179.93
+Entropy_sidec   =               281.60
+Entropy_mainc   =               740.10
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -16.74
+
+running mutagenesis VALA503 in LEU
+3 MOVING NEIGHBOUR RESIDUE = 117 ASP
+3 MOVING NEIGHBOUR RESIDUE = 503 VAL
+3 MOVING NEIGHBOUR RESIDUE = 22 ARG
+3 MOVING NEIGHBOUR RESIDUE = 55 THR
+3 MOVING NEIGHBOUR RESIDUE = 153 ILE
+Residue Number= 503 LEU	
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -603.87
+Electro         =               -30.94
+Energy_SolvP    =               799.98
+Energy_SolvH    =               -790.04
+Energy_vdwclash =               28.89
+energy_torsion  =               16.78
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.26
+Entropy_mainc   =               740.22
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -17.85
+
+running mutagenesis VALA503 in VAL
+4 MOVING NEIGHBOUR RESIDUE = 117 ASP
+4 MOVING NEIGHBOUR RESIDUE = 503 VAL
+4 MOVING NEIGHBOUR RESIDUE = 22 ARG
+4 MOVING NEIGHBOUR RESIDUE = 55 THR
+4 MOVING NEIGHBOUR RESIDUE = 153 ILE
+Residue Number= 503 VAL	
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -603.77
+Electro         =               -30.94
+Energy_SolvP    =               799.88
+Energy_SolvH    =               -789.93
+Energy_vdwclash =               28.89
+energy_torsion  =               16.78
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.20
+Entropy_mainc   =               740.14
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -17.88
+
+running mutagenesis VALA503 in ILE
+5 MOVING NEIGHBOUR RESIDUE = 117 ASP
+5 MOVING NEIGHBOUR RESIDUE = 503 VAL
+5 MOVING NEIGHBOUR RESIDUE = 22 ARG
+5 MOVING NEIGHBOUR RESIDUE = 55 THR
+5 MOVING NEIGHBOUR RESIDUE = 153 ILE
+Residue Number= 503 ILE	
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -603.86
+Electro         =               -30.94
+Energy_SolvP    =               800.22
+Energy_SolvH    =               -790.11
+Energy_vdwclash =               28.92
+energy_torsion  =               16.79
+backbone_vdwclash=              179.96
+Entropy_sidec   =               282.29
+Entropy_mainc   =               740.46
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -17.36
+
+running mutagenesis VALA503 in PRO
+6 MOVING NEIGHBOUR RESIDUE = 117 ASP
+6 MOVING NEIGHBOUR RESIDUE = 503 VAL
+6 MOVING NEIGHBOUR RESIDUE = 22 ARG
+6 MOVING NEIGHBOUR RESIDUE = 55 THR
+6 MOVING NEIGHBOUR RESIDUE = 153 ILE
+Residue Number= 503 PRO	
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -603.59
+Electro         =               -30.94
+Energy_SolvP    =               799.32
+Energy_SolvH    =               -789.69
+Energy_vdwclash =               28.97
+energy_torsion  =               16.79
+backbone_vdwclash=              179.97
+Entropy_sidec   =               281.95
+Entropy_mainc   =               742.07
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -16.26
+
+running mutagenesis VALA503 in ARG
+7 MOVING NEIGHBOUR RESIDUE = 117 ASP
+7 MOVING NEIGHBOUR RESIDUE = 503 VAL
+7 MOVING NEIGHBOUR RESIDUE = 22 ARG
+7 MOVING NEIGHBOUR RESIDUE = 55 THR
+7 MOVING NEIGHBOUR RESIDUE = 153 ILE
+Residue Number= 503 ARG	
+BackHbond       =               -307.65
+SideHbond       =               -149.47
+Energy_VdW      =               -603.64
+Electro         =               -31.06
+Energy_SolvP    =               799.68
+Energy_SolvH    =               -789.49
+Energy_vdwclash =               28.89
+energy_torsion  =               16.93
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.30
+Entropy_mainc   =               740.10
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -17.41
+
+running mutagenesis VALA503 in THR
+8 MOVING NEIGHBOUR RESIDUE = 117 ASP
+8 MOVING NEIGHBOUR RESIDUE = 503 VAL
+8 MOVING NEIGHBOUR RESIDUE = 22 ARG
+8 MOVING NEIGHBOUR RESIDUE = 55 THR
+8 MOVING NEIGHBOUR RESIDUE = 153 ILE
+Residue Number= 503 THR	
+BackHbond       =               -307.65
+SideHbond       =               -149.48
+Energy_VdW      =               -603.37
+Electro         =               -30.94
+Energy_SolvP    =               799.66
+Energy_SolvH    =               -789.19
+Energy_vdwclash =               28.90
+energy_torsion  =               16.83
+backbone_vdwclash=              179.96
+Entropy_sidec   =               281.98
+Entropy_mainc   =               740.01
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -17.24
+
+running mutagenesis VALA503 in SER
+9 MOVING NEIGHBOUR RESIDUE = 117 ASP
+9 MOVING NEIGHBOUR RESIDUE = 503 VAL
+9 MOVING NEIGHBOUR RESIDUE = 22 ARG
+9 MOVING NEIGHBOUR RESIDUE = 55 THR
+9 MOVING NEIGHBOUR RESIDUE = 153 ILE
+Residue Number= 503 SER	
+BackHbond       =               -307.65
+SideHbond       =               -149.44
+Energy_VdW      =               -602.96
+Electro         =               -30.94
+Energy_SolvP    =               799.35
+Energy_SolvH    =               -788.24
+Energy_vdwclash =               28.87
+energy_torsion  =               16.83
+backbone_vdwclash=              179.93
+Entropy_sidec   =               281.75
+Entropy_mainc   =               739.91
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -16.52
+
+running mutagenesis VALA503 in CYS
+10 MOVING NEIGHBOUR RESIDUE = 117 ASP
+10 MOVING NEIGHBOUR RESIDUE = 503 VAL
+10 MOVING NEIGHBOUR RESIDUE = 22 ARG
+10 MOVING NEIGHBOUR RESIDUE = 55 THR
+10 MOVING NEIGHBOUR RESIDUE = 153 ILE
+Residue Number= 503 CYS	
+BackHbond       =               -307.65
+SideHbond       =               -149.77
+Energy_VdW      =               -603.58
+Electro         =               -30.94
+Energy_SolvP    =               799.51
+Energy_SolvH    =               -789.28
+Energy_vdwclash =               28.89
+energy_torsion  =               16.84
+backbone_vdwclash=              179.96
+Entropy_sidec   =               282.33
+Entropy_mainc   =               740.18
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -17.46
+
+running mutagenesis VALA503 in MET
+11 MOVING NEIGHBOUR RESIDUE = 117 ASP
+11 MOVING NEIGHBOUR RESIDUE = 503 VAL
+11 MOVING NEIGHBOUR RESIDUE = 22 ARG
+11 MOVING NEIGHBOUR RESIDUE = 55 THR
+11 MOVING NEIGHBOUR RESIDUE = 153 ILE
+Residue Number= 503 MET	
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -603.85
+Electro         =               -30.94
+Energy_SolvP    =               799.72
+Energy_SolvH    =               -790.03
+Energy_vdwclash =               28.91
+energy_torsion  =               16.78
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.27
+Entropy_mainc   =               740.27
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -18.00
+
+running mutagenesis VALA503 in LYS
+12 MOVING NEIGHBOUR RESIDUE = 117 ASP
+12 MOVING NEIGHBOUR RESIDUE = 503 VAL
+12 MOVING NEIGHBOUR RESIDUE = 22 ARG
+12 MOVING NEIGHBOUR RESIDUE = 55 THR
+12 MOVING NEIGHBOUR RESIDUE = 153 ILE
+Residue Number= 503 LYS	
+BackHbond       =               -307.65
+SideHbond       =               -149.47
+Energy_VdW      =               -603.63
+Electro         =               -30.98
+Energy_SolvP    =               799.60
+Energy_SolvH    =               -789.65
+Energy_vdwclash =               28.90
+energy_torsion  =               16.84
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.26
+Entropy_mainc   =               740.02
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -17.74
+
+running mutagenesis VALA503 in GLU
+13 MOVING NEIGHBOUR RESIDUE = 117 ASP
+13 MOVING NEIGHBOUR RESIDUE = 503 VAL
+13 MOVING NEIGHBOUR RESIDUE = 22 ARG
+13 MOVING NEIGHBOUR RESIDUE = 55 THR
+13 MOVING NEIGHBOUR RESIDUE = 153 ILE
+Residue Number= 503 GLU	
+BackHbond       =               -307.65
+SideHbond       =               -149.45
+Energy_VdW      =               -603.33
+Electro         =               -30.85
+Energy_SolvP    =               799.53
+Energy_SolvH    =               -789.09
+Energy_vdwclash =               28.88
+energy_torsion  =               16.84
+backbone_vdwclash=              179.93
+Entropy_sidec   =               281.95
+Entropy_mainc   =               740.12
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -17.06
+
+running mutagenesis VALA503 in GLN
+14 MOVING NEIGHBOUR RESIDUE = 117 ASP
+14 MOVING NEIGHBOUR RESIDUE = 503 VAL
+14 MOVING NEIGHBOUR RESIDUE = 22 ARG
+14 MOVING NEIGHBOUR RESIDUE = 55 THR
+14 MOVING NEIGHBOUR RESIDUE = 153 ILE
+Residue Number= 503 GLN	
+BackHbond       =               -307.66
+SideHbond       =               -149.71
+Energy_VdW      =               -603.58
+Electro         =               -30.94
+Energy_SolvP    =               799.90
+Energy_SolvH    =               -789.28
+Energy_vdwclash =               28.90
+energy_torsion  =               16.84
+backbone_vdwclash=              179.95
+Entropy_sidec   =               282.22
+Entropy_mainc   =               740.04
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -17.28
+
+running mutagenesis VALA503 in ASP
+15 MOVING NEIGHBOUR RESIDUE = 117 ASP
+15 MOVING NEIGHBOUR RESIDUE = 503 VAL
+15 MOVING NEIGHBOUR RESIDUE = 22 ARG
+15 MOVING NEIGHBOUR RESIDUE = 55 THR
+15 MOVING NEIGHBOUR RESIDUE = 153 ILE
+Residue Number= 503 ASP	
+BackHbond       =               -307.65
+SideHbond       =               -149.43
+Energy_VdW      =               -603.01
+Electro         =               -30.80
+Energy_SolvP    =               799.37
+Energy_SolvH    =               -788.55
+Energy_vdwclash =               28.88
+energy_torsion  =               16.90
+backbone_vdwclash=              179.93
+Entropy_sidec   =               281.73
+Entropy_mainc   =               740.46
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -16.09
+
+running mutagenesis VALA503 in ASN
+16 MOVING NEIGHBOUR RESIDUE = 117 ASP
+16 MOVING NEIGHBOUR RESIDUE = 503 VAL
+16 MOVING NEIGHBOUR RESIDUE = 22 ARG
+16 MOVING NEIGHBOUR RESIDUE = 55 THR
+16 MOVING NEIGHBOUR RESIDUE = 153 ILE
+Residue Number= 503 ASN	
+BackHbond       =               -307.65
+SideHbond       =               -149.44
+Energy_VdW      =               -603.19
+Electro         =               -30.94
+Energy_SolvP    =               799.57
+Energy_SolvH    =               -788.72
+Energy_vdwclash =               28.88
+energy_torsion  =               16.83
+backbone_vdwclash=              179.93
+Entropy_sidec   =               281.86
+Entropy_mainc   =               740.27
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -16.52
+
+running mutagenesis VALA503 in TRP
+17 MOVING NEIGHBOUR RESIDUE = 117 ASP
+17 MOVING NEIGHBOUR RESIDUE = 503 VAL
+17 MOVING NEIGHBOUR RESIDUE = 22 ARG
+17 MOVING NEIGHBOUR RESIDUE = 55 THR
+17 MOVING NEIGHBOUR RESIDUE = 153 ILE
+Residue Number= 503 TRP	
+BackHbond       =               -307.65
+SideHbond       =               -149.44
+Energy_VdW      =               -603.58
+Electro         =               -30.94
+Energy_SolvP    =               799.75
+Energy_SolvH    =               -789.42
+Energy_vdwclash =               28.89
+energy_torsion  =               16.84
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.08
+Entropy_mainc   =               740.09
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -17.39
+
+running mutagenesis VALA503 in TYR
+18 MOVING NEIGHBOUR RESIDUE = 117 ASP
+18 MOVING NEIGHBOUR RESIDUE = 503 VAL
+18 MOVING NEIGHBOUR RESIDUE = 22 ARG
+18 MOVING NEIGHBOUR RESIDUE = 55 THR
+18 MOVING NEIGHBOUR RESIDUE = 153 ILE
+Residue Number= 503 TYR	
+BackHbond       =               -307.64
+SideHbond       =               -149.45
+Energy_VdW      =               -603.43
+Electro         =               -30.95
+Energy_SolvP    =               799.68
+Energy_SolvH    =               -789.18
+Energy_vdwclash =               28.87
+energy_torsion  =               16.78
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.07
+Entropy_mainc   =               740.08
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -17.17
+
+running mutagenesis VALA503 in PHE
+19 MOVING NEIGHBOUR RESIDUE = 117 ASP
+19 MOVING NEIGHBOUR RESIDUE = 503 VAL
+19 MOVING NEIGHBOUR RESIDUE = 22 ARG
+19 MOVING NEIGHBOUR RESIDUE = 55 THR
+19 MOVING NEIGHBOUR RESIDUE = 153 ILE
+Residue Number= 503 PHE	
+BackHbond       =               -307.65
+SideHbond       =               -149.44
+Energy_VdW      =               -603.45
+Electro         =               -30.98
+Energy_SolvP    =               799.70
+Energy_SolvH    =               -789.23
+Energy_vdwclash =               28.88
+energy_torsion  =               16.83
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.11
+Entropy_mainc   =               740.05
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -17.16
+
+running mutagenesis VALA503 in HIS
+20 MOVING NEIGHBOUR RESIDUE = 117 ASP
+20 MOVING NEIGHBOUR RESIDUE = 503 VAL
+20 MOVING NEIGHBOUR RESIDUE = 22 ARG
+20 MOVING NEIGHBOUR RESIDUE = 55 THR
+20 MOVING NEIGHBOUR RESIDUE = 153 ILE
+Residue Number= 503 H2S	
+BackHbond       =               -307.65
+SideHbond       =               -149.44
+Energy_VdW      =               -603.30
+Electro         =               -30.94
+Energy_SolvP    =               799.72
+Energy_SolvH    =               -788.89
+Energy_vdwclash =               28.88
+energy_torsion  =               16.83
+backbone_vdwclash=              179.93
+Entropy_sidec   =               281.95
+Entropy_mainc   =               740.19
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.33
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -16.59
+
+Residue VAL504 identified.
+running mutagenesis VALA504 in VAL
+0 MOVING NEIGHBOUR RESIDUE = 501 THR
+0 MOVING NEIGHBOUR RESIDUE = 502 VAL
+Residue Number= 504 VAL	
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -603.77
+Electro         =               -30.94
+Energy_SolvP    =               799.88
+Energy_SolvH    =               -789.94
+Energy_vdwclash =               28.89
+energy_torsion  =               16.78
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.20
+Entropy_mainc   =               740.14
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -17.88
+
+running mutagenesis VALA504 in GLY
+1 MOVING NEIGHBOUR RESIDUE = 501 THR
+1 MOVING NEIGHBOUR RESIDUE = 502 VAL
+Residue Number= 504 GLY	
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -603.63
+Electro         =               -30.94
+Energy_SolvP    =               799.26
+Energy_SolvH    =               -789.83
+Energy_vdwclash =               28.89
+energy_torsion  =               16.78
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.18
+Entropy_mainc   =               739.99
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -18.43
+
+running mutagenesis VALA504 in ALA
+2 MOVING NEIGHBOUR RESIDUE = 501 THR
+2 MOVING NEIGHBOUR RESIDUE = 502 VAL
+Residue Number= 504 ALA	
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -603.65
+Electro         =               -30.94
+Energy_SolvP    =               799.44
+Energy_SolvH    =               -789.83
+Energy_vdwclash =               28.89
+energy_torsion  =               16.78
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.17
+Entropy_mainc   =               740.04
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -18.23
+
+running mutagenesis VALA504 in LEU
+3 MOVING NEIGHBOUR RESIDUE = 501 THR
+3 MOVING NEIGHBOUR RESIDUE = 502 VAL
+Residue Number= 504 LEU	
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -603.99
+Electro         =               -30.94
+Energy_SolvP    =               799.97
+Energy_SolvH    =               -790.31
+Energy_vdwclash =               28.89
+energy_torsion  =               16.78
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.35
+Entropy_mainc   =               740.19
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -18.19
+
+running mutagenesis VALA504 in VAL
+4 MOVING NEIGHBOUR RESIDUE = 501 THR
+4 MOVING NEIGHBOUR RESIDUE = 502 VAL
+Residue Number= 504 VAL	
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -603.77
+Electro         =               -30.94
+Energy_SolvP    =               799.88
+Energy_SolvH    =               -789.94
+Energy_vdwclash =               28.89
+energy_torsion  =               16.78
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.20
+Entropy_mainc   =               740.14
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -17.88
+
+running mutagenesis VALA504 in ILE
+5 MOVING NEIGHBOUR RESIDUE = 501 THR
+5 MOVING NEIGHBOUR RESIDUE = 502 VAL
+Residue Number= 504 ILE	
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -604.04
+Electro         =               -30.94
+Energy_SolvP    =               800.26
+Energy_SolvH    =               -790.36
+Energy_vdwclash =               28.89
+energy_torsion  =               16.78
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.37
+Entropy_mainc   =               740.25
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -17.93
+
+running mutagenesis VALA504 in PRO
+6 MOVING NEIGHBOUR RESIDUE = 501 THR
+6 MOVING NEIGHBOUR RESIDUE = 502 VAL
+Residue Number= 504 PRO	
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -603.84
+Electro         =               -30.94
+Energy_SolvP    =               799.66
+Energy_SolvH    =               -790.12
+Energy_vdwclash =               28.89
+energy_torsion  =               16.79
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.20
+Entropy_mainc   =               739.95
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -18.54
+
+running mutagenesis VALA504 in ARG
+7 MOVING NEIGHBOUR RESIDUE = 501 THR
+7 MOVING NEIGHBOUR RESIDUE = 502 VAL
+Residue Number= 504 ARG	
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -603.77
+Electro         =               -30.92
+Energy_SolvP    =               799.54
+Energy_SolvH    =               -790.03
+Energy_vdwclash =               28.89
+energy_torsion  =               16.85
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.24
+Entropy_mainc   =               740.14
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -18.20
+
+running mutagenesis VALA504 in THR
+8 MOVING NEIGHBOUR RESIDUE = 501 THR
+8 MOVING NEIGHBOUR RESIDUE = 502 VAL
+Residue Number= 504 THR	
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -603.74
+Electro         =               -30.94
+Energy_SolvP    =               799.66
+Energy_SolvH    =               -789.94
+Energy_vdwclash =               28.89
+energy_torsion  =               16.78
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.20
+Entropy_mainc   =               740.11
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -18.11
+
+running mutagenesis VALA504 in SER
+9 MOVING NEIGHBOUR RESIDUE = 501 THR
+9 MOVING NEIGHBOUR RESIDUE = 502 VAL
+Residue Number= 504 SER	
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -603.73
+Electro         =               -30.94
+Energy_SolvP    =               799.63
+Energy_SolvH    =               -789.87
+Energy_vdwclash =               28.89
+energy_torsion  =               16.78
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.19
+Entropy_mainc   =               740.11
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -18.07
+
+running mutagenesis VALA504 in CYS
+10 MOVING NEIGHBOUR RESIDUE = 501 THR
+10 MOVING NEIGHBOUR RESIDUE = 502 VAL
+Residue Number= 504 CYS	
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -603.71
+Electro         =               -30.94
+Energy_SolvP    =               799.54
+Energy_SolvH    =               -789.92
+Energy_vdwclash =               28.89
+energy_torsion  =               16.78
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.22
+Entropy_mainc   =               740.06
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -18.21
+
+running mutagenesis VALA504 in MET
+11 MOVING NEIGHBOUR RESIDUE = 501 THR
+11 MOVING NEIGHBOUR RESIDUE = 502 VAL
+Residue Number= 504 MET	
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -604.50
+Electro         =               -30.94
+Energy_SolvP    =               800.50
+Energy_SolvH    =               -790.98
+Energy_vdwclash =               28.90
+energy_torsion  =               16.79
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.71
+Entropy_mainc   =               740.38
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -18.28
+
+running mutagenesis VALA504 in LYS
+12 MOVING NEIGHBOUR RESIDUE = 501 THR
+12 MOVING NEIGHBOUR RESIDUE = 502 VAL
+Residue Number= 504 LYS	
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -603.77
+Electro         =               -30.94
+Energy_SolvP    =               799.61
+Energy_SolvH    =               -790.00
+Energy_vdwclash =               28.89
+energy_torsion  =               16.78
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.24
+Entropy_mainc   =               740.08
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -18.25
+
+running mutagenesis VALA504 in GLU
+13 MOVING NEIGHBOUR RESIDUE = 501 THR
+13 MOVING NEIGHBOUR RESIDUE = 502 VAL
+Residue Number= 504 GLU	
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -603.73
+Electro         =               -30.96
+Energy_SolvP    =               799.56
+Energy_SolvH    =               -789.93
+Energy_vdwclash =               28.89
+energy_torsion  =               16.78
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.21
+Entropy_mainc   =               740.10
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -18.21
+
+running mutagenesis VALA504 in GLN
+14 MOVING NEIGHBOUR RESIDUE = 501 THR
+14 MOVING NEIGHBOUR RESIDUE = 502 VAL
+Residue Number= 504 GLN	
+BackHbond       =               -308.15
+SideHbond       =               -150.00
+Energy_VdW      =               -604.06
+Electro         =               -30.94
+Energy_SolvP    =               800.03
+Energy_SolvH    =               -790.21
+Energy_vdwclash =               28.89
+energy_torsion  =               16.78
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.93
+Entropy_mainc   =               740.22
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -18.50
+
+running mutagenesis VALA504 in ASP
+15 MOVING NEIGHBOUR RESIDUE = 501 THR
+15 MOVING NEIGHBOUR RESIDUE = 502 VAL
+Residue Number= 504 ASP	
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -603.77
+Electro         =               -31.00
+Energy_SolvP    =               799.68
+Energy_SolvH    =               -789.97
+Energy_vdwclash =               28.89
+energy_torsion  =               16.78
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.25
+Entropy_mainc   =               740.12
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -18.15
+
+running mutagenesis VALA504 in ASN
+16 MOVING NEIGHBOUR RESIDUE = 501 THR
+16 MOVING NEIGHBOUR RESIDUE = 502 VAL
+Residue Number= 504 ASN	
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -603.78
+Electro         =               -30.94
+Energy_SolvP    =               799.70
+Energy_SolvH    =               -789.98
+Energy_vdwclash =               28.89
+energy_torsion  =               16.78
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.23
+Entropy_mainc   =               740.12
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -18.10
+
+running mutagenesis VALA504 in TRP
+17 MOVING NEIGHBOUR RESIDUE = 501 THR
+17 MOVING NEIGHBOUR RESIDUE = 502 VAL
+Residue Number= 504 TRP	
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -604.37
+Electro         =               -30.94
+Energy_SolvP    =               800.24
+Energy_SolvH    =               -790.79
+Energy_vdwclash =               28.89
+energy_torsion  =               16.78
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.71
+Entropy_mainc   =               740.18
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -18.43
+
+running mutagenesis VALA504 in TYR
+18 MOVING NEIGHBOUR RESIDUE = 501 THR
+18 MOVING NEIGHBOUR RESIDUE = 502 VAL
+Residue Number= 504 TYR	
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -604.13
+Electro         =               -31.14
+Energy_SolvP    =               799.91
+Energy_SolvH    =               -790.52
+Energy_vdwclash =               28.89
+energy_torsion  =               16.78
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.69
+Entropy_mainc   =               740.18
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -18.46
+
+running mutagenesis VALA504 in PHE
+19 MOVING NEIGHBOUR RESIDUE = 501 THR
+19 MOVING NEIGHBOUR RESIDUE = 502 VAL
+Residue Number= 504 PHE	
+BackHbond       =               -307.64
+SideHbond       =               -149.49
+Energy_VdW      =               -604.16
+Electro         =               -31.14
+Energy_SolvP    =               799.95
+Energy_SolvH    =               -790.56
+Energy_vdwclash =               28.89
+energy_torsion  =               16.78
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.70
+Entropy_mainc   =               740.22
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.28
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -18.46
+
+running mutagenesis VALA504 in HIS
+20 MOVING NEIGHBOUR RESIDUE = 501 THR
+20 MOVING NEIGHBOUR RESIDUE = 502 VAL
+Residue Number= 504 H1S	
+BackHbond       =               -308.03
+SideHbond       =               -149.88
+Energy_VdW      =               -604.03
+Electro         =               -30.94
+Energy_SolvP    =               799.84
+Energy_SolvH    =               -790.25
+Energy_vdwclash =               28.89
+energy_torsion  =               16.83
+backbone_vdwclash=              179.93
+Entropy_sidec   =               282.81
+Entropy_mainc   =               740.14
+water bonds     =               0.00
+helix dipole    =               -0.31
+loop_entropy    =               0.00
+cis_bond        =               2.25
+disulfide       =               -10.22
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             4.33
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -18.56
+
+Command PositionScan runtime = 254.22 seconds.
+
+Pdb RepairPDB_1A65_A.pdb runtime = 254.32 seconds.
+
+total run time = 254.32 seconds.
+
+End time of FoldX: Tue May 13 10:00:40 2014
+
+Total time spend: 256 seconds.
+
+ *** End of FoldX run. Bye. *** 
