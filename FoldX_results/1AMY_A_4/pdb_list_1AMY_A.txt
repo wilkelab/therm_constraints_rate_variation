@@ -1,1 +1,0 @@
-RepairPDB_1AMY_A.pdb

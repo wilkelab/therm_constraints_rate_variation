@@ -1,1 +1,0 @@
-RepairPDB_1G6T_A.pdb

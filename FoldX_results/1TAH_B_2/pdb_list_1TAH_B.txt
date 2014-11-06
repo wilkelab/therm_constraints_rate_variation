@@ -1,1 +1,0 @@
-RepairPDB_1TAH_B.pdb

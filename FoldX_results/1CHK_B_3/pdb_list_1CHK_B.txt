@@ -1,1 +1,0 @@
-RepairPDB_1CHK_B.pdb
