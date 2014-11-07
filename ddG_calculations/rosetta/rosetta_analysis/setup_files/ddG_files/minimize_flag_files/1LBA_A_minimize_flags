@@ -1,0 +1,15 @@
+-in:file:l 1LBA_A_pdb_list.txt
+-in:file:fullatom
+-ignore_unrecognized_res
+-fa_max_dis 9.0
+-database /work/02212/eleishaj/rosetta_2014wk05_bundle/main/database
+-ddg::harmonic_ca_tether 0.5
+-score:weights standard
+-score:weights sp2_paper_talaris2013_scaled.wts
+-ddg::constraint_weight 1.0
+-ddg::out_pdb_prefix min_cst_0.5
+-ddg::sc_min_only false
+-score::bonded_params 300 150 40 40 40
+-scale_d 1
+-scale_theta 1
+-scale_rb 1

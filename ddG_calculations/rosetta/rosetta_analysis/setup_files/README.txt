@@ -1,4 +1,4 @@
 This is the directory containing the setup files for Rosetta ddG Monomer.
 
-renumbered_pdbs/
-	This contains the renumbered pdbs used as Rosetta input.
+ddG_files/
+	This contains all of the Rosetta ddG Monomer input files.
