@@ -2,4 +2,4 @@ Supplementary data files from Huang et al., A mechanistic stress model of protei
 
 - TableS1.csv: list of proteins analyzed
 - TableS2.csv: contact densities, rates, etc. for all sites in all proteins 
-- alignments: folder containing all the alignments they used
+- wcn_profiles_209_monomers.csv: Weighted Contact Number (wcn) profiles for the 209 monomeric proteins used here
